@@ -1,0 +1,1532 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>瘍科方之內〔瘍科圖錄〕</title>
+        <title type="alternate">Yōka zuroku [Illustrated surgical atlas]</title>
+        <author>佚名</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>京都（藏地）</settlement>
+            <repository>京都大學附屬圖書館</repository>
+            <collection>富士川文庫</collection>
+            <idno>ヨ/144</idno>
+            <altIdentifier>
+              <idno>RB00005563</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>《瘍科方之內》是京都大學富士川文庫所藏手繪外科圖冊，館目題〔瘍科圖錄〕。全冊人物及局部彩圖有肉瘤、骨瘤、火傷與創傷等原筆題記，部分圖幅依「其二」「其三」成組，另有短記、日語旁釋與館藏印識。一圖記安政乙卯年（1855）；全冊作者、編抄年未詳。</p>
+              <ref target="https://rmda.kulib.kyoto-u.ac.jp/item/rb00005563">館方書目</ref>
+              <ref target="https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005563/manifest.json">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>一圖記安政乙卯年（1855）；圖冊作者與編抄年代未詳。扉頁有大正七年（1918）入藏標記。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>每幅對應館方 IIIF canvas，區域座標採寬2000像素的館方下載JPEG，圖題、小字、朱印、刪痕、圖幅與館錄資料分層。圖幅位置為人工選取的區域，圖檔由館方依連結供讀。</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="lzh">漢字圖題及漢文短記</language>
+        <language ident="ja">日文旁釋及館藏字記</language>
+        <language ident="en">英文中介資料</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p1" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f01">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00001_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="title" ulx="635" uly="130" lrx="790" lry="692" xml:id="f01-f-title-01" />
+    </surface>
+    <surface n="2" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p2" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f02">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00002_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="title" ulx="214" uly="120" lrx="330" lry="590" xml:id="f02-l-title-01" />
+      <zone type="title" ulx="932" uly="135" lrx="990" lry="555" xml:id="f02-s-title-01" />
+      <zone type="label" ulx="934" uly="729" lrx="985" lry="786" xml:id="f02-s-label-01" />
+      <zone type="library-label" ulx="920" uly="963" lrx="1004" lry="1100" xml:id="f02-s-library-label-01" />
+    </surface>
+    <surface n="3" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p3" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f03">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00003_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="library-label" ulx="1205" uly="148" lrx="1286" lry="255" xml:id="f03-f-library-label-01" />
+    </surface>
+    <surface n="4" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p4" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f04">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00004_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="library-label" ulx="1602" uly="145" lrx="1680" lry="265" xml:id="f04-r-library-label-01" />
+      <zone type="seal" ulx="1060" uly="858" lrx="1122" lry="955" xml:id="f04-r-seal-01" />
+      <zone type="title" ulx="405" uly="320" lrx="545" lry="1095" xml:id="f04-l-title-01" />
+      <zone type="seal" ulx="360" uly="350" lrx="414" lry="430" xml:id="f04-l-seal-01" />
+      <zone type="seal" ulx="360" uly="885" lrx="417" lry="967" xml:id="f04-l-seal-02" />
+      <zone type="seal" ulx="855" uly="848" lrx="933" lry="1058" xml:id="f04-l-seal-03" />
+    </surface>
+    <surface n="5" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p5" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f05">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00005_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="marginalia" ulx="1595" uly="940" lrx="1670" lry="1208" xml:id="f05-r-marginalia-01" />
+      <zone type="seal" ulx="1628" uly="850" lrx="1655" lry="953" xml:id="f05-r-seal-01" />
+      <zone type="library-stamp" ulx="380" uly="162" lrx="605" lry="322" xml:id="f05-l-library-stamp-01" />
+      <zone type="seal" ulx="620" uly="150" lrx="832" lry="363" xml:id="f05-l-seal-01" />
+      <zone type="seal" ulx="887" uly="332" lrx="936" lry="385" xml:id="f05-l-seal-02" />
+      <zone type="seal" ulx="882" uly="616" lrx="935" lry="686" xml:id="f05-l-seal-03" />
+      <zone type="caption" ulx="875" uly="238" lrx="913" lry="324" xml:id="f05-l-caption-01" />
+      <zone type="figure" ulx="273" uly="502" lrx="981" lry="1222" xml:id="f05-l-figure-01" />
+    </surface>
+    <surface n="6" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p6" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f06">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00006_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1588" uly="218" lrx="1650" lry="355" xml:id="f06-r-caption-01" />
+      <zone type="figure" ulx="995" uly="575" lrx="1688" lry="1228" xml:id="f06-r-figure-01" />
+      <zone type="caption" ulx="853" uly="217" lrx="920" lry="359" xml:id="f06-l-caption-01" />
+      <zone type="figure" ulx="270" uly="497" lrx="990" lry="1225" xml:id="f06-l-figure-01" />
+    </surface>
+    <surface n="7" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p7" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f07">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00007_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1597" uly="222" lrx="1656" lry="342" xml:id="f07-r-caption-01" />
+      <zone type="figure" ulx="995" uly="491" lrx="1692" lry="1222" xml:id="f07-r-figure-01" />
+      <zone type="caption" ulx="858" uly="241" lrx="921" lry="345" xml:id="f07-l-caption-01" />
+      <zone type="figure" ulx="272" uly="530" lrx="990" lry="1223" xml:id="f07-l-figure-01" />
+    </surface>
+    <surface n="8" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p8" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f08">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00008_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1588" uly="244" lrx="1640" lry="374" xml:id="f08-r-caption-01" />
+      <zone type="figure" ulx="1123" uly="624" lrx="1698" lry="1224" xml:id="f08-r-figure-01" />
+      <zone type="caption" ulx="874" uly="247" lrx="930" lry="369" xml:id="f08-l-caption-01" />
+      <zone type="figure" ulx="272" uly="519" lrx="990" lry="1224" xml:id="f08-l-figure-01" />
+    </surface>
+    <surface n="9" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p9" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f09">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00009_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1580" uly="278" lrx="1657" lry="454" xml:id="f09-r-caption-01" />
+      <zone type="figure" ulx="1038" uly="507" lrx="1685" lry="1226" xml:id="f09-r-figure-01" />
+      <zone type="caption" ulx="856" uly="253" lrx="918" lry="376" xml:id="f09-l-caption-01" />
+      <zone type="figure" ulx="270" uly="470" lrx="1000" lry="1226" xml:id="f09-l-figure-01" />
+    </surface>
+    <surface n="10" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p10" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f10">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00010_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1570" uly="255" lrx="1653" lry="366" xml:id="f10-r-caption-01" />
+      <zone type="figure" ulx="985" uly="487" lrx="1650" lry="1227" xml:id="f10-r-figure-01" />
+      <zone type="caption" ulx="870" uly="242" lrx="926" lry="350" xml:id="f10-l-caption-01" />
+      <zone type="figure" ulx="277" uly="590" lrx="992" lry="1225" xml:id="f10-l-figure-01" />
+    </surface>
+    <surface n="11" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p11" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f11">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00011_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1565" uly="253" lrx="1618" lry="380" xml:id="f11-r-caption-01" />
+      <zone type="figure" ulx="1134" uly="604" lrx="1668" lry="1231" xml:id="f11-r-figure-01" />
+      <zone type="caption" ulx="879" uly="244" lrx="936" lry="419" xml:id="f11-l-caption-01" />
+      <zone type="figure" ulx="310" uly="575" lrx="930" lry="1228" xml:id="f11-l-figure-01" />
+    </surface>
+    <surface n="12" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p12" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f12">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00012_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1560" uly="253" lrx="1620" lry="382" xml:id="f12-r-caption-01" />
+      <zone type="figure" ulx="986" uly="710" lrx="1669" lry="1231" xml:id="f12-r-figure-01" />
+      <zone type="caption" ulx="866" uly="246" lrx="939" lry="422" xml:id="f12-l-caption-01" />
+      <zone type="figure" ulx="276" uly="473" lrx="971" lry="1231" xml:id="f12-l-figure-01" />
+    </surface>
+    <surface n="13" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p13" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f13">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00013_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1504" uly="205" lrx="1640" lry="426" xml:id="f13-r-caption-01" />
+      <zone type="figure" ulx="1050" uly="587" lrx="1655" lry="1231" xml:id="f13-r-figure-01" />
+      <zone type="caption" ulx="880" uly="249" lrx="941" lry="374" xml:id="f13-l-caption-01" />
+      <zone type="figure" ulx="270" uly="548" lrx="970" lry="1227" xml:id="f13-l-figure-01" />
+    </surface>
+    <surface n="14" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p14" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f14">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00014_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1540" uly="238" lrx="1597" lry="337" xml:id="f14-r-caption-01" />
+      <zone type="figure" ulx="1150" uly="485" lrx="1673" lry="1234" xml:id="f14-r-figure-01" />
+      <zone type="caption" ulx="876" uly="237" lrx="934" lry="366" xml:id="f14-l-caption-01" />
+      <zone type="figure" ulx="282" uly="360" lrx="953" lry="1231" xml:id="f14-l-figure-01" />
+    </surface>
+    <surface n="15" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p15" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f15">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00015_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1558" uly="215" lrx="1626" lry="316" xml:id="f15-r-caption-01" />
+      <zone type="figure" ulx="986" uly="454" lrx="1658" lry="1175" xml:id="f15-r-figure-01" />
+      <zone type="caption" ulx="875" uly="242" lrx="949" lry="374" xml:id="f15-l-caption-01" />
+      <zone type="figure" ulx="275" uly="398" lrx="967" lry="1229" xml:id="f15-l-figure-01" />
+    </surface>
+    <surface n="16" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p16" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f16">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00016_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1536" uly="292" lrx="1602" lry="408" xml:id="f16-r-caption-01" />
+      <zone type="figure" ulx="978" uly="593" lrx="1658" lry="1223" xml:id="f16-r-figure-01" />
+      <zone type="caption" ulx="853" uly="235" lrx="918" lry="378" xml:id="f16-l-caption-01" />
+      <zone type="figure" ulx="270" uly="609" lrx="936" lry="1225" xml:id="f16-l-figure-01" />
+    </surface>
+    <surface n="17" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p17" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f17">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00017_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1516" uly="248" lrx="1575" lry="356" xml:id="f17-r-caption-01" />
+      <zone type="figure" ulx="974" uly="612" lrx="1657" lry="1221" xml:id="f17-r-figure-01" />
+      <zone type="caption" ulx="879" uly="222" lrx="938" lry="376" xml:id="f17-l-caption-01" />
+      <zone type="gloss" ulx="881" uly="353" lrx="931" lry="449" xml:id="f17-l-gloss-01" />
+      <zone type="figure" ulx="284" uly="583" lrx="963" lry="1226" xml:id="f17-l-figure-01" />
+    </surface>
+    <surface n="18" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p18" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f18">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00018_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1505" uly="258" lrx="1565" lry="375" xml:id="f18-r-caption-01" />
+      <zone type="figure" ulx="964" uly="501" lrx="1662" lry="1222" xml:id="f18-r-figure-01" />
+      <zone type="caption" ulx="863" uly="235" lrx="930" lry="384" xml:id="f18-l-caption-01" />
+      <zone type="figure" ulx="288" uly="590" lrx="956" lry="1194" xml:id="f18-l-figure-01" />
+    </surface>
+    <surface n="19" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p19" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f19">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00019_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1506" uly="246" lrx="1583" lry="360" xml:id="f19-r-caption-01" />
+      <zone type="figure" ulx="962" uly="576" lrx="1668" lry="1180" xml:id="f19-r-figure-01" />
+      <zone type="caption" ulx="872" uly="221" lrx="933" lry="373" xml:id="f19-l-caption-01" />
+      <zone type="figure" ulx="285" uly="392" lrx="965" lry="1227" xml:id="f19-l-figure-01" />
+    </surface>
+    <surface n="20" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p20" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f20">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00020_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1526" uly="217" lrx="1597" lry="386" xml:id="f20-r-caption-01" />
+      <zone type="figure" ulx="966" uly="626" lrx="1660" lry="1155" xml:id="f20-r-figure-01" />
+      <zone type="caption" ulx="856" uly="394" lrx="925" lry="520" xml:id="f20-l-caption-01" />
+      <zone type="figure" ulx="283" uly="241" lrx="953" lry="1214" xml:id="f20-l-figure-01" />
+    </surface>
+    <surface n="21" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p21" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f21">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00021_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1500" uly="248" lrx="1584" lry="389" xml:id="f21-r-caption-01" />
+      <zone type="figure" ulx="961" uly="453" lrx="1657" lry="1210" xml:id="f21-r-figure-01" />
+      <zone type="caption" ulx="873" uly="239" lrx="940" lry="328" xml:id="f21-l-caption-01" />
+      <zone type="figure" ulx="278" uly="428" lrx="955" lry="1225" xml:id="f21-l-figure-01" />
+    </surface>
+    <surface n="22" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p22" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f22">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00022_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1230" uly="145" lrx="1304" lry="244" xml:id="f22-r-caption-01" />
+      <zone type="figure" ulx="961" uly="160" lrx="1657" lry="1229" xml:id="f22-r-figure-01" />
+      <zone type="caption" ulx="863" uly="220" lrx="943" lry="343" xml:id="f22-l-caption-01" />
+      <zone type="figure" ulx="276" uly="503" lrx="962" lry="1228" xml:id="f22-l-figure-01" />
+    </surface>
+    <surface n="23" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p23" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f23">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00023_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1517" uly="225" lrx="1564" lry="317" xml:id="f23-r-caption-01" />
+      <zone type="figure" ulx="1100" uly="655" lrx="1645" lry="1000" xml:id="f23-r-figure-01" />
+      <zone type="caption" ulx="846" uly="205" lrx="920" lry="385" xml:id="f23-l-caption-01" />
+      <zone type="figure" ulx="270" uly="424" lrx="955" lry="1225" xml:id="f23-l-figure-01" />
+    </surface>
+    <surface n="24" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p24" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f24">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00024_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1500" uly="243" lrx="1566" lry="380" xml:id="f24-r-caption-01" />
+      <zone type="figure" ulx="1090" uly="668" lrx="1615" lry="1010" xml:id="f24-r-figure-01" />
+      <zone type="caption" ulx="846" uly="222" lrx="915" lry="329" xml:id="f24-l-caption-01" />
+      <zone type="figure" ulx="300" uly="496" lrx="890" lry="1219" xml:id="f24-l-figure-01" />
+    </surface>
+    <surface n="25" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p25" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f25">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00025_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1533" uly="241" lrx="1591" lry="327" xml:id="f25-r-caption-01" />
+      <zone type="figure" ulx="1054" uly="479" lrx="1615" lry="1217" xml:id="f25-r-figure-01" />
+      <zone type="caption" ulx="830" uly="228" lrx="925" lry="406" xml:id="f25-l-caption-01" />
+      <zone type="figure" ulx="280" uly="416" lrx="900" lry="1224" xml:id="f25-l-figure-01" />
+    </surface>
+    <surface n="26" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p26" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f26">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00026_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1495" uly="285" lrx="1554" lry="372" xml:id="f26-r-caption-01" />
+      <zone type="figure" ulx="1051" uly="710" lrx="1595" lry="1150" xml:id="f26-r-figure-01" />
+      <zone type="caption" ulx="851" uly="247" lrx="917" lry="354" xml:id="f26-l-caption-01" />
+      <zone type="figure" ulx="282" uly="481" lrx="932" lry="1217" xml:id="f26-l-figure-01" />
+    </surface>
+    <surface n="27" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p27" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f27">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00027_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1498" uly="265" lrx="1573" lry="373" xml:id="f27-r-caption-01" />
+      <zone type="figure" ulx="1085" uly="509" lrx="1530" lry="1194" xml:id="f27-r-figure-01" />
+      <zone type="caption" ulx="843" uly="244" lrx="911" lry="350" xml:id="f27-l-caption-01" />
+      <zone type="figure" ulx="306" uly="491" lrx="909" lry="1227" xml:id="f27-l-figure-01" />
+    </surface>
+    <surface n="28" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p28" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f28">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00028_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1514" uly="218" lrx="1582" lry="310" xml:id="f28-r-caption-01" />
+      <zone type="figure" ulx="1070" uly="458" lrx="1615" lry="1226" xml:id="f28-r-figure-01" />
+      <zone type="caption" ulx="825" uly="370" lrx="943" lry="543" xml:id="f28-l-caption-01" />
+      <zone type="figure" ulx="264" uly="397" lrx="971" lry="1230" xml:id="f28-l-figure-01" />
+    </surface>
+    <surface n="29" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p29" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f29">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00029_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1498" uly="334" lrx="1569" lry="544" xml:id="f29-r-caption-01" />
+      <zone type="figure" ulx="969" uly="509" lrx="1655" lry="1231" xml:id="f29-r-figure-01" />
+      <zone type="caption" ulx="902" uly="274" lrx="969" lry="425" xml:id="f29-l-caption-01" />
+      <zone type="figure" ulx="278" uly="430" lrx="970" lry="1229" xml:id="f29-l-figure-01" />
+    </surface>
+    <surface n="30" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p30" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f30">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00030_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1310" uly="985" lrx="1419" lry="1178" xml:id="f30-r-caption-01" />
+      <zone type="figure" ulx="969" uly="112" lrx="1654" lry="1229" xml:id="f30-r-figure-01" />
+      <zone type="caption" ulx="922" uly="1081" lrx="974" lry="1179" xml:id="f30-l-caption-01" />
+      <zone type="figure" ulx="271" uly="110" lrx="973" lry="1232" xml:id="f30-l-figure-01" />
+    </surface>
+    <surface n="31" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p31" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f31">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00031_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1110" uly="135" lrx="1320" lry="286" xml:id="f31-r-caption-01" />
+      <zone type="figure" ulx="969" uly="270" lrx="1613" lry="1229" xml:id="f31-r-figure-01" />
+      <zone type="caption" ulx="818" uly="451" lrx="956" lry="715" xml:id="f31-l-caption-01" />
+      <zone type="figure" ulx="273" uly="465" lrx="950" lry="1225" xml:id="f31-l-figure-01" />
+    </surface>
+    <surface n="32" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p32" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f32">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00032_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1510" uly="164" lrx="1595" lry="296" xml:id="f32-r-caption-01" />
+      <zone type="figure" ulx="965" uly="122" lrx="1666" lry="1228" xml:id="f32-r-figure-01" />
+      <zone type="caption" ulx="909" uly="179" lrx="971" lry="294" xml:id="f32-l-caption-01" />
+      <zone type="figure" ulx="271" uly="113" lrx="976" lry="1229" xml:id="f32-l-figure-01" />
+    </surface>
+    <surface n="33" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p33" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f33">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00033_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1537" uly="200" lrx="1608" lry="358" xml:id="f33-r-caption-01" />
+      <zone type="note" ulx="1528" uly="464" lrx="1604" lry="632" xml:id="f33-r-note-01" />
+      <zone type="figure" ulx="978" uly="612" lrx="1663" lry="1229" xml:id="f33-r-figure-01" />
+      <zone type="caption" ulx="883" uly="350" lrx="965" lry="603" xml:id="f33-l-caption-01" />
+      <zone type="figure" ulx="269" uly="408" lrx="973" lry="1230" xml:id="f33-l-figure-01" />
+    </surface>
+    <surface n="34" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p34" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f34">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00034_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1501" uly="214" lrx="1627" lry="493" xml:id="f34-r-caption-01" />
+      <zone type="note" ulx="1522" uly="562" lrx="1625" lry="706" xml:id="f34-r-note-01" />
+      <zone type="figure" ulx="965" uly="269" lrx="1665" lry="1229" xml:id="f34-r-figure-01" />
+      <zone type="caption" ulx="879" uly="405" lrx="978" lry="622" xml:id="f34-l-caption-01" />
+      <zone type="figure" ulx="270" uly="109" lrx="978" lry="1231" xml:id="f34-l-figure-01" />
+    </surface>
+    <surface n="35" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p35" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f35">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00035_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1557" uly="339" lrx="1644" lry="488" xml:id="f35-r-caption-01" />
+      <zone type="figure" ulx="967" uly="109" lrx="1646" lry="1228" xml:id="f35-r-figure-01" />
+      <zone type="caption" ulx="860" uly="316" lrx="951" lry="548" xml:id="f35-l-caption-01" />
+      <zone type="figure" ulx="286" uly="459" lrx="978" lry="1231" xml:id="f35-l-figure-01" />
+    </surface>
+    <surface n="36" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p36" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f36">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00036_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1494" uly="224" lrx="1597" lry="432" xml:id="f36-r-caption-01" />
+      <zone type="figure" ulx="976" uly="487" lrx="1634" lry="1230" xml:id="f36-r-figure-01" />
+      <zone type="caption" ulx="878" uly="285" lrx="975" lry="429" xml:id="f36-l-caption-01" />
+      <zone type="figure" ulx="270" uly="423" lrx="979" lry="1232" xml:id="f36-l-figure-01" />
+    </surface>
+    <surface n="37" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p37" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f37">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00037_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1336" uly="148" lrx="1644" lry="425" xml:id="f37-r-caption-01" />
+      <zone type="figure" ulx="975" uly="133" lrx="1647" lry="1233" xml:id="f37-r-figure-01" />
+      <zone type="caption" ulx="825" uly="215" lrx="897" lry="360" xml:id="f37-l-caption-01" />
+      <zone type="cancelled-text" ulx="916" uly="260" lrx="976" lry="479" xml:id="f37-l-cancelled-text-01" />
+      <zone type="figure" ulx="269" uly="108" lrx="973" lry="1230" xml:id="f37-l-figure-01" />
+    </surface>
+    <surface n="38" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p38" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f38">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00038_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1519" uly="315" lrx="1597" lry="408" xml:id="f38-r-caption-01" />
+      <zone type="figure" ulx="974" uly="480" lrx="1612" lry="1227" xml:id="f38-r-figure-01" />
+      <zone type="unlabelled" ulx="277" uly="128" lrx="962" lry="1227" xml:id="f38-l-unlabelled-01" />
+      <zone type="figure" ulx="273" uly="483" lrx="974" lry="1228" xml:id="f38-l-figure-01" />
+    </surface>
+    <surface n="39" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p39" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f39">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00039_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1534" uly="230" lrx="1614" lry="334" xml:id="f39-r-caption-01" />
+      <zone type="figure" ulx="966" uly="252" lrx="1650" lry="1227" xml:id="f39-r-figure-01" />
+      <zone type="caption" ulx="877" uly="433" lrx="951" lry="562" xml:id="f39-l-caption-01" />
+      <zone type="gloss" ulx="877" uly="558" lrx="942" lry="720" xml:id="f39-l-gloss-01" />
+      <zone type="figure" ulx="269" uly="105" lrx="975" lry="1230" xml:id="f39-l-figure-01" />
+    </surface>
+    <surface n="40" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p40" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f40">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00040_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1454" uly="440" lrx="1518" lry="526" xml:id="f40-r-caption-01" />
+      <zone type="figure" ulx="967" uly="502" lrx="1592" lry="1228" xml:id="f40-r-figure-01" />
+      <zone type="caption" ulx="851" uly="336" lrx="943" lry="505" xml:id="f40-l-caption-01" />
+      <zone type="figure" ulx="270" uly="480" lrx="975" lry="1229" xml:id="f40-l-figure-01" />
+    </surface>
+    <surface n="41" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p41" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f41">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00041_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1510" uly="284" lrx="1591" lry="475" xml:id="f41-r-caption-01" />
+      <zone type="figure" ulx="972" uly="503" lrx="1657" lry="1227" xml:id="f41-r-figure-01" />
+      <zone type="caption" ulx="854" uly="318" lrx="925" lry="437" xml:id="f41-l-caption-01" />
+      <zone type="figure" ulx="276" uly="516" lrx="963" lry="1227" xml:id="f41-l-figure-01" />
+    </surface>
+    <surface n="42" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p42" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f42">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00042_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1558" uly="461" lrx="1638" lry="581" xml:id="f42-r-caption-01" />
+      <zone type="figure" ulx="973" uly="236" lrx="1641" lry="1231" xml:id="f42-r-figure-01" />
+      <zone type="caption" ulx="873" uly="283" lrx="967" lry="509" xml:id="f42-l-caption-01" />
+      <zone type="figure" ulx="269" uly="492" lrx="970" lry="1228" xml:id="f42-l-figure-01" />
+    </surface>
+    <surface n="43" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p43" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f43">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00043_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="mark" ulx="1443" uly="130" lrx="1620" lry="292" xml:id="f43-r-mark-01" />
+      <zone type="caption" ulx="1197" uly="745" lrx="1308" lry="965" xml:id="f43-r-caption-01" />
+      <zone type="figure" ulx="997" uly="316" lrx="1650" lry="1228" xml:id="f43-r-figure-01" />
+      <zone type="caption" ulx="894" uly="270" lrx="963" lry="377" xml:id="f43-l-caption-01" />
+      <zone type="caption" ulx="545" uly="1014" lrx="632" lry="1128" xml:id="f43-l-caption-02" />
+      <zone type="figure" ulx="272" uly="508" lrx="973" lry="1218" xml:id="f43-l-figure-01" />
+    </surface>
+    <surface n="44" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p44" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f44">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00044_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1515" uly="292" lrx="1608" lry="439" xml:id="f44-r-caption-01" />
+      <zone type="figure" ulx="976" uly="446" lrx="1661" lry="1227" xml:id="f44-r-figure-01" />
+      <zone type="caption" ulx="899" uly="232" lrx="970" lry="380" xml:id="f44-l-caption-01" />
+      <zone type="figure" ulx="267" uly="300" lrx="976" lry="1215" xml:id="f44-l-figure-01" />
+    </surface>
+    <surface n="45" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p45" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f45">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00045_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1509" uly="299" lrx="1597" lry="421" xml:id="f45-r-caption-01" />
+      <zone type="figure" ulx="1100" uly="510" lrx="1649" lry="1110" xml:id="f45-r-figure-01" />
+      <zone type="caption" ulx="898" uly="248" lrx="973" lry="514" xml:id="f45-l-caption-01" />
+      <zone type="figure" ulx="269" uly="402" lrx="973" lry="1228" xml:id="f45-l-figure-01" />
+    </surface>
+    <surface n="46" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p46" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f46">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00046_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1550" uly="174" lrx="1648" lry="619" xml:id="f46-r-caption-01" />
+      <zone type="figure" ulx="969" uly="123" lrx="1648" lry="1228" xml:id="f46-r-figure-01" />
+      <zone type="caption" ulx="914" uly="244" lrx="974" lry="423" xml:id="f46-l-caption-01" />
+      <zone type="figure" ulx="273" uly="422" lrx="974" lry="1229" xml:id="f46-l-figure-01" />
+    </surface>
+    <surface n="47" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p47" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f47">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00047_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1535" uly="274" lrx="1630" lry="521" xml:id="f47-r-caption-01" />
+      <zone type="figure" ulx="967" uly="243" lrx="1645" lry="1227" xml:id="f47-r-figure-01" />
+      <zone type="unlabelled" ulx="266" uly="125" lrx="975" lry="1226" xml:id="f47-l-unlabelled-01" />
+      <zone type="figure" ulx="409" uly="597" lrx="975" lry="1226" xml:id="f47-l-figure-01" />
+    </surface>
+    <surface n="48" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p48" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f48">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00048_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1513" uly="355" lrx="1592" lry="468" xml:id="f48-r-caption-01" />
+      <zone type="figure" ulx="1004" uly="456" lrx="1588" lry="1189" xml:id="f48-r-figure-01" />
+      <zone type="caption" ulx="886" uly="365" lrx="964" lry="478" xml:id="f48-l-caption-01" />
+      <zone type="figure" ulx="275" uly="364" lrx="970" lry="1228" xml:id="f48-l-figure-01" />
+    </surface>
+    <surface n="49" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p49" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f49">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00049_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="unlabelled" ulx="969" uly="114" lrx="1655" lry="1230" xml:id="f49-r-unlabelled-01" />
+      <zone type="figure" ulx="969" uly="114" lrx="1655" lry="1230" xml:id="f49-r-figure-01" />
+      <zone type="caption" ulx="884" uly="155" lrx="954" lry="405" xml:id="f49-l-caption-01" />
+      <zone type="figure" ulx="279" uly="122" lrx="973" lry="1223" xml:id="f49-l-figure-01" />
+    </surface>
+    <surface n="50" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p50" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f50">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00050_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1529" uly="160" lrx="1601" lry="264" xml:id="f50-r-caption-01" />
+      <zone type="figure" ulx="971" uly="119" lrx="1655" lry="1224" xml:id="f50-r-figure-01" />
+      <zone type="unlabelled" ulx="269" uly="120" lrx="974" lry="1227" xml:id="f50-l-unlabelled-01" />
+      <zone type="figure" ulx="271" uly="440" lrx="975" lry="1225" xml:id="f50-l-figure-01" />
+    </surface>
+    <surface n="51" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p51" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f51">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00051_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="unlabelled" ulx="974" uly="110" lrx="1650" lry="1227" xml:id="f51-r-unlabelled-01" />
+      <zone type="figure" ulx="974" uly="395" lrx="1650" lry="1227" xml:id="f51-r-figure-01" />
+      <zone type="caption" ulx="836" uly="725" lrx="956" lry="1145" xml:id="f51-l-caption-01" />
+      <zone type="figure" ulx="271" uly="137" lrx="975" lry="1228" xml:id="f51-l-figure-01" />
+    </surface>
+    <surface n="52" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p52" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f52">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00052_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1454" uly="126" lrx="1605" lry="259" xml:id="f52-r-caption-01" />
+      <zone type="figure" ulx="974" uly="257" lrx="1656" lry="1227" xml:id="f52-r-figure-01" />
+      <zone type="caption" ulx="895" uly="358" lrx="955" lry="489" xml:id="f52-l-caption-01" />
+      <zone type="figure" ulx="276" uly="482" lrx="972" lry="1227" xml:id="f52-l-figure-01" />
+    </surface>
+    <surface n="53" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p53" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f53">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00053_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="caption" ulx="1558" uly="286" lrx="1645" lry="402" xml:id="f53-r-caption-01" />
+      <zone type="figure" ulx="974" uly="461" lrx="1655" lry="1229" xml:id="f53-r-figure-01" />
+      <zone type="blank" ulx="275" uly="116" lrx="973" lry="1227" xml:id="f53-l-blank-01" />
+    </surface>
+    <surface n="54" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p54" ulx="0" uly="0" lrx="2000" lry="1333" xml:id="f54">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00054_0.ptif/full/2000,/0/default.jpg" width="2000px" height="1333px" />
+      <zone type="cover" ulx="609" uly="93" lrx="1378" lry="1199" xml:id="f54-f-cover-01" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="surgical-atlas">
+        <pb n="1" facs="#f01" />
+        <div n="f01" type="scan">
+          <div n="F" type="page-face" subtype="paratext">
+            <ab type="source-feature" subtype="title" facs="#f01-f-title-01">
+              <seg type="diplomatic-text">瘍科方之內</seg>
+              <note type="editorial">外函正面，末字為內的簡寫，f04L重見。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="f02" type="scan">
+          <div n="L" type="page-face" subtype="paratext">
+            <ab type="source-feature" subtype="title" facs="#f02-l-title-01">
+              <seg type="diplomatic-text">瘍科方之內</seg>
+              <note type="editorial">外函展開，左側重見。</note>
+            </ab>
+          </div>
+          <div n="S" type="page-face" subtype="paratext">
+            <ab type="source-feature" subtype="title" facs="#f02-s-title-01">
+              <seg type="diplomatic-text">瘍科方之內</seg>
+              <note type="editorial">函脊另題。</note>
+            </ab>
+            <ab type="source-feature" subtype="label" facs="#f02-s-label-01">
+              <seg type="diplomatic-text">全</seg>
+              <note type="editorial">函脊下段。</note>
+            </ab>
+            <ab type="source-feature" subtype="library-label" facs="#f02-s-library-label-01">
+              <seg type="diplomatic-text" xml:lang="ja">ヨ144</seg>
+              <note type="editorial">近代架標，合併行讀僅為索引。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="3" facs="#f03" />
+        <div n="f03" type="scan">
+          <div n="F" type="page-face" subtype="paratext">
+            <ab type="source-feature" subtype="library-label" facs="#f03-f-library-label-01">
+              <seg type="diplomatic-text" xml:lang="ja">富士川本<lb />ヨ<lb />144</seg>
+              <note type="editorial">橙色封面。斜線表示換列。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="4" facs="#f04" />
+        <div n="f04" type="scan">
+          <div n="R" type="page-face" subtype="paratext">
+            <ab type="source-feature" subtype="library-label" facs="#f04-r-library-label-01">
+              <seg type="diplomatic-text" xml:lang="ja">富士川本<lb />ヨ<lb />144</seg>
+              <note type="editorial">扉頁右上。</note>
+            </ab>
+            <ab type="source-feature" subtype="seal" facs="#f04-r-seal-01">
+              <seg type="diplomatic-text">□</seg>
+              <note type="editorial">色極淺，外觀似透印；未認字。</note>
+            </ab>
+          </div>
+          <div n="L" type="page-face" subtype="paratext">
+            <ab type="source-feature" subtype="title" facs="#f04-l-title-01">
+              <seg type="diplomatic-text">瘍科方之內</seg>
+              <note type="editorial">原冊手寫內題。</note>
+            </ab>
+            <ab type="source-feature" subtype="seal" facs="#f04-l-seal-01">
+              <seg type="diplomatic-text">□</seg>
+              <note type="editorial">小紅圓印，漫漶。</note>
+            </ab>
+            <ab type="source-feature" subtype="seal" facs="#f04-l-seal-02">
+              <seg type="diplomatic-text">□</seg>
+              <note type="editorial">小紅圓印，漫漶。</note>
+            </ab>
+            <ab type="source-feature" subtype="seal" facs="#f04-l-seal-03">
+              <seg type="diplomatic-text">富士川游寄贈</seg>
+              <note type="editorial">右下直列朱印。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="5" facs="#f05" />
+        <div n="f05" type="scan">
+          <div n="R" type="page-face" subtype="paratext">
+            <ab type="source-feature" subtype="marginalia" facs="#f05-r-marginalia-01">
+              <seg type="diplomatic-text">五七一<lb />□</seg>
+              <note type="editorial">扉頁邊記無圖。下方草書未識，不以號碼類推；上方有漫漶朱印。</note>
+            </ab>
+            <ab type="source-feature" subtype="seal" facs="#f05-r-seal-01">
+              <seg type="diplomatic-text">□</seg>
+              <note type="editorial">扉頁右下細長朱痕，未認字。</note>
+            </ab>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="library-stamp" facs="#f05-l-library-stamp-01">
+              <seg type="diplomatic-text" xml:lang="ja">187558<lb />大正7.3.31</seg>
+              <note type="editorial">橢圓圖書章。日期是入藏標記（1918年），不是抄成年代。</note>
+            </ab>
+            <ab type="source-feature" subtype="seal" facs="#f05-l-seal-01">
+              <seg type="diplomatic-text">京都帝國大學圖書之印</seg>
+              <note type="editorial">朱方印屬館藏；可讀字序待獨立核驗。</note>
+            </ab>
+            <ab type="source-feature" subtype="seal" facs="#f05-l-seal-02">
+              <seg type="diplomatic-text">□</seg>
+              <note type="editorial">圖題下圓印。</note>
+            </ab>
+            <ab type="source-feature" subtype="seal" facs="#f05-l-seal-03">
+              <seg type="diplomatic-text">□</seg>
+              <note type="editorial">額部圖像右側圓印。</note>
+            </ab>
+            <ab type="source-feature" subtype="caption" facs="#f05-l-caption-01" corresp="#f05-l-figure-01">
+              <seg type="diplomatic-text">口痔</seg>
+              <note type="editorial">痔為疒從寺。</note>
+            </ab>
+            <figure facs="#f05-l-figure-01">
+              <figDesc>人物頭胸像，口部著色。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="6" facs="#f06" />
+        <div n="f06" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f06-r-caption-01" corresp="#f06-r-figure-01">
+              <seg type="diplomatic-text">骨瘤</seg>
+            </ab>
+            <figure facs="#f06-r-figure-01">
+              <figDesc>側轉頭胸像。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f06-l-caption-01" corresp="#f06-l-figure-01">
+              <seg type="diplomatic-text">骨瘤</seg>
+            </ab>
+            <figure facs="#f06-l-figure-01">
+              <figDesc>正面頭胸像。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="7" facs="#f07" />
+        <div n="f07" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f07-r-caption-01" corresp="#f07-r-figure-01">
+              <seg type="diplomatic-text">肉瘤</seg>
+            </ab>
+            <figure facs="#f07-r-figure-01">
+              <figDesc>正面頭胸像。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f07-l-caption-01" corresp="#f07-l-figure-01">
+              <seg type="diplomatic-text">肩□</seg>
+              <note type="editorial">次字似凡或几；底本形保留待裁。</note>
+            </ab>
+            <figure facs="#f07-l-figure-01">
+              <figDesc>背面上身像。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="8" facs="#f08" />
+        <div n="f08" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f08-r-caption-01" corresp="#f08-r-figure-01">
+              <seg type="diplomatic-text">耳瘤</seg>
+            </ab>
+            <figure facs="#f08-r-figure-01">
+              <figDesc>側面頭胸像。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f08-l-caption-01" corresp="#f08-l-figure-01">
+              <seg type="diplomatic-text">菌毒</seg>
+            </ab>
+            <figure facs="#f08-l-figure-01">
+              <figDesc>側轉頭胸像，眼周著色。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="9" facs="#f09" />
+        <div n="f09" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f09-r-caption-01" corresp="#f09-r-figure-01">
+              <seg type="diplomatic-text">眼胞菌毒</seg>
+            </ab>
+            <figure facs="#f09-r-figure-01">
+              <figDesc>側面頭胸像。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f09-l-caption-01" corresp="#f09-l-figure-01">
+              <seg type="diplomatic-text">血痣</seg>
+              <note type="editorial">次字下部見心。</note>
+            </ab>
+            <figure facs="#f09-l-figure-01">
+              <figDesc>正面頭胸像。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="10" facs="#f10" />
+        <div n="f10" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f10-r-caption-01" corresp="#f10-r-figure-01">
+              <seg type="diplomatic-text">舌疽</seg>
+              <note type="editorial">首字輪廓近舌或古，次字下部近且；題右另有細竪筆。</note>
+            </ab>
+            <figure facs="#f10-r-figure-01">
+              <figDesc>正面頭胸像，舌外伸。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f10-l-caption-01" corresp="#f10-l-figure-01">
+              <seg type="diplomatic-text">肉瘤</seg>
+            </ab>
+            <figure facs="#f10-l-figure-01">
+              <figDesc>側轉頭胸像。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="11" facs="#f11" />
+        <div n="f11" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f11-r-caption-01" corresp="#f11-r-figure-01">
+              <seg type="diplomatic-text">肉瘤</seg>
+            </ab>
+            <figure facs="#f11-r-figure-01">
+              <figDesc>側面頭胸像。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f11-l-caption-01" corresp="#f11-l-figure-01">
+              <seg type="diplomatic-text">支馬疳</seg>
+              <note type="editorial">首字草寫形近支，慣用名稱有走馬疳；末字待覆。</note>
+            </ab>
+            <figure facs="#f11-l-figure-01">
+              <figDesc>正面頭胸像。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="12" facs="#f12" />
+        <div n="f12" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f12-r-caption-01" corresp="#f12-r-figure-01">
+              <seg type="diplomatic-text">肉瘤</seg>
+            </ab>
+            <figure facs="#f12-r-figure-01">
+              <figDesc>側轉頭胸像。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f12-l-caption-01" corresp="#f12-l-figure-01">
+              <seg type="diplomatic-text">小兒耳瘤</seg>
+            </ab>
+            <figure facs="#f12-l-figure-01">
+              <figDesc>小兒頭胸像。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="13" facs="#f13" />
+        <div n="f13" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f13-r-caption-01" corresp="#f13-r-figure-01">
+              <seg type="diplomatic-text">虫胞頭皮肉間<lb />生於白虫</seg>
+              <note type="editorial">兩直欄按右左。虫字無繁化。皮、肉旁及白虫四周另見手繪框線。</note>
+            </ab>
+            <figure facs="#f13-r-figure-01">
+              <figDesc>側轉頭胸像及頭部圖上筆記。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f13-l-caption-01" corresp="#f13-l-figure-01">
+              <seg type="diplomatic-text">肉瘤</seg>
+            </ab>
+            <figure facs="#f13-l-figure-01">
+              <figDesc>後仰頭胸像。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="14" facs="#f14" />
+        <div n="f14" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f14-r-caption-01" corresp="#f14-r-figure-01">
+              <seg type="diplomatic-text">其二</seg>
+              <note type="editorial">前幅續題的字面讀法。</note>
+            </ab>
+            <figure facs="#f14-r-figure-01">
+              <figDesc>同葉兩個色繪形體，合為一組。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f14-l-caption-01" corresp="#f14-l-figure-01">
+              <seg type="diplomatic-text">陰瘤</seg>
+            </ab>
+            <figure facs="#f14-l-figure-01">
+              <figDesc>下腹部局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="15" facs="#f15" />
+        <div n="f15" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f15-r-caption-01" corresp="#f15-r-figure-01">
+              <seg type="diplomatic-text">其二</seg>
+            </ab>
+            <figure facs="#f15-r-figure-01">
+              <figDesc>下腹部局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f15-l-caption-01" corresp="#f15-l-figure-01">
+              <seg type="diplomatic-text">陰瘤</seg>
+            </ab>
+            <figure facs="#f15-l-figure-01">
+              <figDesc>下腹部局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="16" facs="#f16" />
+        <div n="f16" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f16-r-caption-01" corresp="#f16-r-figure-01">
+              <seg type="diplomatic-text">陰瘤</seg>
+            </ab>
+            <figure facs="#f16-r-figure-01">
+              <figDesc>下腹部局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f16-l-caption-01" corresp="#f16-l-figure-01">
+              <seg type="diplomatic-text">陰瘤</seg>
+            </ab>
+            <figure facs="#f16-l-figure-01">
+              <figDesc>下腹部局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="17" facs="#f17" />
+        <div n="f17" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f17-r-caption-01" corresp="#f17-r-figure-01">
+              <seg type="diplomatic-text">陰瘤</seg>
+            </ab>
+            <figure facs="#f17-r-figure-01">
+              <figDesc>下腹部局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f17-l-caption-01" corresp="#f17-l-figure-01">
+              <seg type="diplomatic-text">是俗ニ云</seg>
+              <note type="editorial">日語旁記另列。</note>
+            </ab>
+            <ab type="source-feature" subtype="gloss" facs="#f17-l-gloss-01" corresp="#f17-l-figure-01">
+              <seg type="diplomatic-text" xml:lang="ja">マイタレ<lb />ホヽナリ</seg>
+              <note type="editorial">雙小列，右列先；左列的反覆記號及開頭待核。</note>
+            </ab>
+            <figure facs="#f17-l-figure-01">
+              <figDesc>下腹部局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="18" facs="#f18" />
+        <div n="f18" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f18-r-caption-01" corresp="#f18-r-figure-01">
+              <seg type="diplomatic-text">陰瘤</seg>
+            </ab>
+            <figure facs="#f18-r-figure-01">
+              <figDesc>下腹部局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f18-l-caption-01" corresp="#f18-l-figure-01">
+              <seg type="diplomatic-text">鎖陰</seg>
+            </ab>
+            <figure facs="#f18-l-figure-01">
+              <figDesc>下腹部局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="19" facs="#f19" />
+        <div n="f19" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f19-r-caption-01" corresp="#f19-r-figure-01">
+              <seg type="diplomatic-text">陰瘤</seg>
+            </ab>
+            <figure facs="#f19-r-figure-01">
+              <figDesc>下腹部局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f19-l-caption-01" corresp="#f19-l-figure-01">
+              <seg type="diplomatic-text">陰門反花</seg>
+            </ab>
+            <figure facs="#f19-l-figure-01">
+              <figDesc>正面蹲坐全身圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="20" facs="#f20" />
+        <div n="f20" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f20-r-caption-01" corresp="#f20-r-figure-01">
+              <seg type="diplomatic-text">肛門反花</seg>
+            </ab>
+            <figure facs="#f20-r-figure-01">
+              <figDesc>下腹部局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f20-l-caption-01" corresp="#f20-l-figure-01">
+              <seg type="diplomatic-text">血痣</seg>
+            </ab>
+            <figure facs="#f20-l-figure-01">
+              <figDesc>下肢局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="21" facs="#f21" />
+        <div n="f21" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f21-r-caption-01" corresp="#f21-r-figure-01">
+              <seg type="diplomatic-text">脫疽</seg>
+            </ab>
+            <figure facs="#f21-r-figure-01">
+              <figDesc>下肢局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f21-l-caption-01" corresp="#f21-l-figure-01">
+              <seg type="diplomatic-text">其二</seg>
+            </ab>
+            <figure facs="#f21-l-figure-01">
+              <figDesc>下肢局部圖，另有分離形體。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="22" facs="#f22" />
+        <div n="f22" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f22-r-caption-01" corresp="#f22-r-figure-01">
+              <seg type="diplomatic-text">骨瘤</seg>
+              <note type="editorial">圖題位置向頁中央移，非欄首通例。</note>
+            </ab>
+            <figure facs="#f22-r-figure-01">
+              <figDesc>下肢局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f22-l-caption-01" corresp="#f22-l-figure-01">
+              <seg type="diplomatic-text">骨瘤</seg>
+            </ab>
+            <figure facs="#f22-l-figure-01">
+              <figDesc>帶衣袖上肢局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="23" facs="#f23" />
+        <div n="f23" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f23-r-caption-01" corresp="#f23-r-figure-01">
+              <seg type="diplomatic-text">六指</seg>
+            </ab>
+            <figure facs="#f23-r-figure-01">
+              <figDesc>帶衣袖的上肢局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f23-l-caption-01" corresp="#f23-l-figure-01">
+              <seg type="diplomatic-text">無名指ノ瘤</seg>
+              <note type="editorial">漢字間有片假名ノ。</note>
+            </ab>
+            <figure facs="#f23-l-figure-01">
+              <figDesc>掌、腕與衣袖局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="24" facs="#f24" />
+        <div n="f24" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f24-r-caption-01" corresp="#f24-r-figure-01">
+              <seg type="diplomatic-text">骨瘤</seg>
+            </ab>
+            <figure facs="#f24-r-figure-01">
+              <figDesc>手與手腕局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f24-l-caption-01" corresp="#f24-l-figure-01">
+              <seg type="diplomatic-text">火傷</seg>
+            </ab>
+            <figure facs="#f24-l-figure-01">
+              <figDesc>坐姿人物全身圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="25" facs="#f25" />
+        <div n="f25" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f25-r-caption-01" corresp="#f25-r-figure-01">
+              <seg type="diplomatic-text">其二</seg>
+            </ab>
+            <figure facs="#f25-r-figure-01">
+              <figDesc>側斜坐姿人物全身圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f25-l-caption-01" corresp="#f25-l-figure-01">
+              <seg type="diplomatic-text">血痣反花</seg>
+            </ab>
+            <figure facs="#f25-l-figure-01">
+              <figDesc>側背坐姿人物全身圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="26" facs="#f26" />
+        <div n="f26" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f26-r-caption-01" corresp="#f26-r-figure-01">
+              <seg type="diplomatic-text">其二</seg>
+              <note type="editorial">左旁另有淡曲筆。</note>
+            </ab>
+            <figure facs="#f26-r-figure-01">
+              <figDesc>分離色繪形體，同頁一組。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f26-l-caption-01" corresp="#f26-l-figure-01">
+              <seg type="diplomatic-text">血瘤</seg>
+            </ab>
+            <figure facs="#f26-l-figure-01">
+              <figDesc>坐姿側面人物全身圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="27" facs="#f27" />
+        <div n="f27" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f27-r-caption-01" corresp="#f27-r-figure-01">
+              <seg type="diplomatic-text">火傷</seg>
+            </ab>
+            <figure facs="#f27-r-figure-01">
+              <figDesc>側坐人物全身圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f27-l-caption-01" corresp="#f27-l-figure-01">
+              <seg type="diplomatic-text">肉瘤</seg>
+            </ab>
+            <figure facs="#f27-l-figure-01">
+              <figDesc>坐姿人物全身圖，胸上有色繪。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="28" facs="#f28" />
+        <div n="f28" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f28-r-caption-01" corresp="#f28-r-figure-01">
+              <seg type="diplomatic-text">兩陰</seg>
+            </ab>
+            <figure facs="#f28-r-figure-01">
+              <figDesc>正面屈腿坐姿人物全身圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f28-l-caption-01" corresp="#f28-l-figure-01">
+              <seg type="diplomatic-text">癭瘤</seg>
+              <note type="editorial">第一字從疒、下似嬰。</note>
+            </ab>
+            <figure facs="#f28-l-figure-01">
+              <figDesc>側背坐姿人物全身圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="29" facs="#f29" />
+        <div n="f29" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f29-r-caption-01" corresp="#f29-r-figure-01">
+              <seg type="diplomatic-text">肉瘤反花</seg>
+            </ab>
+            <figure facs="#f29-r-figure-01">
+              <figDesc>人物頭肩背面，頸部著色。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f29-l-caption-01" corresp="#f29-l-figure-01">
+              <seg type="diplomatic-text">脫疽</seg>
+            </ab>
+            <figure facs="#f29-l-figure-01">
+              <figDesc>屈曲下肢局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="30" facs="#f30" />
+        <div n="f30" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f30-r-caption-01" corresp="#f30-r-figure-01">
+              <seg type="diplomatic-text">大肉瘤</seg>
+              <note type="editorial">題靠圖下緣。</note>
+            </ab>
+            <figure facs="#f30-r-figure-01">
+              <figDesc>側身、上肢局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f30-l-caption-01" corresp="#f30-l-figure-01">
+              <seg type="diplomatic-text">其二</seg>
+              <note type="editorial">題靠圖下緣。</note>
+            </ab>
+            <figure facs="#f30-l-figure-01">
+              <figDesc>人體局部及著色形體圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="31" facs="#f31" />
+        <div n="f31" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f31-r-caption-01" corresp="#f31-r-figure-01">
+              <seg type="diplomatic-text">其三<lb />月形八百目</seg>
+              <note type="editorial">題字順紙緣側向寫，右列先；月疑同，末形亦可能日。</note>
+            </ab>
+            <figure facs="#f31-r-figure-01">
+              <figDesc>容器與著色形體圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f31-l-caption-01" corresp="#f31-l-figure-01">
+              <seg type="diplomatic-text">東醫某<lb />舌疽</seg>
+              <note type="editorial">右列署稱性短記，左列題名。</note>
+            </ab>
+            <figure facs="#f31-l-figure-01">
+              <figDesc>側面上身像，舌外伸。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="32" facs="#f32" />
+        <div n="f32" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f32-r-caption-01" corresp="#f32-r-figure-01">
+              <seg type="diplomatic-text">乳癭</seg>
+            </ab>
+            <figure facs="#f32-r-figure-01">
+              <figDesc>正面胸腹部局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f32-l-caption-01" corresp="#f32-l-figure-01">
+              <seg type="diplomatic-text">其二</seg>
+            </ab>
+            <figure facs="#f32-l-figure-01">
+              <figDesc>正面胸腹部局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="33" facs="#f33" />
+        <div n="f33" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f33-r-caption-01" corresp="#f33-r-figure-01">
+              <seg type="diplomatic-text">其三</seg>
+            </ab>
+            <ab type="source-feature" subtype="note" facs="#f33-r-note-01" corresp="#f33-r-figure-01">
+              <seg type="diplomatic-text">三拾五目</seg>
+              <note type="editorial">末字與日形難分；旁記另列。</note>
+            </ab>
+            <figure facs="#f33-r-figure-01">
+              <figDesc>有色橢圓形體繪於紙片形輪廓。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f33-l-caption-01" corresp="#f33-l-figure-01">
+              <seg type="diplomatic-text">肉瘤反花</seg>
+            </ab>
+            <figure facs="#f33-l-figure-01">
+              <figDesc>側坐人物像與胸前色繪。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="34" facs="#f34" />
+        <div n="f34" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f34-r-caption-01" corresp="#f34-r-figure-01">
+              <seg type="diplomatic-text">乳癧為岩狀</seg>
+              <note type="editorial">次字見疒與似歷下部。</note>
+            </ab>
+            <ab type="source-feature" subtype="note" facs="#f34-r-note-01" corresp="#f34-r-figure-01">
+              <seg type="diplomatic-text">癧サリ</seg>
+              <note type="editorial">與上條癧形近同；片假末形待核。</note>
+            </ab>
+            <figure facs="#f34-r-figure-01">
+              <figDesc>側坐人物像。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f34-l-caption-01" corresp="#f34-l-figure-01">
+              <seg type="diplomatic-text">子宮脫</seg>
+            </ab>
+            <figure facs="#f34-l-figure-01">
+              <figDesc>有布紋及著色形體的身體局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="35" facs="#f35" />
+        <div n="f35" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f35-r-caption-01" corresp="#f35-r-figure-01">
+              <seg type="diplomatic-text">臓毒</seg>
+              <note type="editorial">第一字右部寫法近臓。</note>
+            </ab>
+            <figure facs="#f35-r-figure-01">
+              <figDesc>有布紋及著色形體的身體局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f35-l-caption-01" corresp="#f35-l-figure-01">
+              <seg type="diplomatic-text">乳岩自潰</seg>
+            </ab>
+            <figure facs="#f35-l-figure-01">
+              <figDesc>側轉人物上身像。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="36" facs="#f36" />
+        <div n="f36" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f36-r-caption-01" corresp="#f36-r-figure-01">
+              <seg type="diplomatic-text">上齶疱</seg>
+              <note type="editorial">末字似疒包，也可能疣，未逕改。</note>
+            </ab>
+            <figure facs="#f36-r-figure-01">
+              <figDesc>人物頭胸像與面部色繪。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f36-l-caption-01" corresp="#f36-l-figure-01">
+              <seg type="diplomatic-text">脹滿</seg>
+            </ab>
+            <figure facs="#f36-l-figure-01">
+              <figDesc>側面坐像，左有器物。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="37" facs="#f37" />
+        <div n="f37" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f37-r-caption-01" corresp="#f37-r-figure-01">
+              <seg type="diplomatic-text">安政乙卯歳<lb />八月十四日ニ<lb />御手廻リ之<lb />喧嘩ニ<lb />金創</seg>
+              <note type="editorial">五欄依圖由右至左排列。帶1855年個案紀年。</note>
+            </ab>
+            <figure facs="#f37-r-figure-01">
+              <figDesc>多姿勢連綴的身體局部彩圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f37-l-caption-01" corresp="#f37-l-figure-01">
+              <seg type="diplomatic-text">痔漏</seg>
+              <note type="editorial">靠右另有濃墨塗改。</note>
+            </ab>
+            <ab type="source-feature" subtype="cancelled-text" facs="#f37-l-cancelled-text-01" corresp="#f37-l-figure-01">
+              <seg type="diplomatic-text">□</seg>
+              <gap reason="obscured" unit="region" />
+              <note type="editorial">原字為濃墨覆蓋，保留區域。</note>
+            </ab>
+            <figure facs="#f37-l-figure-01">
+              <figDesc>有布紋及著色形體的身體局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="38" facs="#f38" />
+        <div n="f38" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f38-r-caption-01" corresp="#f38-r-figure-01">
+              <seg type="diplomatic-text">疱</seg>
+              <note type="editorial">亦近疣，與f48L相參但不類推。</note>
+            </ab>
+            <figure facs="#f38-r-figure-01">
+              <figDesc>從背側繪製的人物上身圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-unlabelled">
+            <ab type="source-feature" subtype="unlabelled" facs="#f38-l-unlabelled-01" corresp="#f38-l-figure-01">
+              <note type="editorial">確認該圖幅無可辨圖題。</note>
+            </ab>
+            <figure facs="#f38-l-figure-01">
+              <figDesc>側斜上身圖，面頰著色。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="39" facs="#f39" />
+        <div n="f39" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f39-r-caption-01" corresp="#f39-r-figure-01">
+              <seg type="diplomatic-text">便毒</seg>
+              <note type="editorial">舊病名詞形保持。</note>
+            </ab>
+            <figure facs="#f39-r-figure-01">
+              <figDesc>有布紋及著色形體的身體局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f39-l-caption-01" corresp="#f39-l-figure-01">
+              <seg type="diplomatic-text">鎖陰</seg>
+            </ab>
+            <ab type="source-feature" subtype="gloss" facs="#f39-l-gloss-01" corresp="#f39-l-figure-01">
+              <seg type="diplomatic-text" xml:lang="ja">俗ニ云<lb />アナ<lb />ナシ</seg>
+              <note type="editorial">主小字和右左雙小欄分列。</note>
+            </ab>
+            <figure facs="#f39-l-figure-01">
+              <figDesc>有布紋的身體局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="40" facs="#f40" />
+        <div n="f40" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f40-r-caption-01" corresp="#f40-r-figure-01">
+              <seg type="diplomatic-text">肉瘤</seg>
+            </ab>
+            <figure facs="#f40-r-figure-01">
+              <figDesc>側面上身像。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f40-l-caption-01" corresp="#f40-l-figure-01">
+              <seg type="diplomatic-text">結毒反花</seg>
+            </ab>
+            <figure facs="#f40-l-figure-01">
+              <figDesc>正面上身像。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="41" facs="#f41" />
+        <div n="f41" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f41-r-caption-01" corresp="#f41-r-figure-01">
+              <seg type="diplomatic-text">對口疽</seg>
+            </ab>
+            <figure facs="#f41-r-figure-01">
+              <figDesc>側背上身像。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f41-l-caption-01" corresp="#f41-l-figure-01">
+              <seg type="diplomatic-text">火傷</seg>
+            </ab>
+            <figure facs="#f41-l-figure-01">
+              <figDesc>手與衣袖局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="42" facs="#f42" />
+        <div n="f42" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f42-r-caption-01" corresp="#f42-r-figure-01">
+              <seg type="diplomatic-text">結毒</seg>
+            </ab>
+            <figure facs="#f42-r-figure-01">
+              <figDesc>下肢局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f42-l-caption-01" corresp="#f42-l-figure-01">
+              <seg type="diplomatic-text">喧嘩金創</seg>
+              <note type="editorial">次字形近嘩，題末大筆豎伸。</note>
+            </ab>
+            <figure facs="#f42-l-figure-01">
+              <figDesc>側轉人物上身像，頭部著色。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="43" facs="#f43" />
+        <div n="f43" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="mark" facs="#f43-r-mark-01">
+              <note type="editorial">細線末端下斜，有箭頭形；不當作文字。</note>
+            </ab>
+            <ab type="source-feature" subtype="caption" facs="#f43-r-caption-01" corresp="#f43-r-figure-01">
+              <seg type="diplomatic-text">穿踝疽</seg>
+              <note type="editorial">第二字見足旁和果部。</note>
+            </ab>
+            <figure facs="#f43-r-figure-01">
+              <figDesc>屈曲下肢局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f43-l-caption-01" corresp="#f43-l-figure-01">
+              <seg type="diplomatic-text">六指</seg>
+            </ab>
+            <ab type="source-feature" subtype="caption" facs="#f43-l-caption-02" corresp="#f43-l-figure-01">
+              <seg type="diplomatic-text">拇指</seg>
+              <note type="editorial">首字似拇或按，初擬拇；下圖旁獨立圖題。</note>
+            </ab>
+            <figure facs="#f43-l-figure-01">
+              <figDesc>兩組手、腕與衣袖，同面一組。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="44" facs="#f44" />
+        <div n="f44" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f44-r-caption-01" corresp="#f44-r-figure-01">
+              <seg type="diplomatic-text">缺唇</seg>
+            </ab>
+            <figure facs="#f44-r-figure-01">
+              <figDesc>小兒側轉頭胸像。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f44-l-caption-01" corresp="#f44-l-figure-01">
+              <seg type="diplomatic-text">陰瘤</seg>
+            </ab>
+            <figure facs="#f44-l-figure-01">
+              <figDesc>有布紋及著色形體的身體局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="45" facs="#f45" />
+        <div n="f45" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f45-r-caption-01" corresp="#f45-r-figure-01">
+              <seg type="diplomatic-text">火傷</seg>
+            </ab>
+            <figure facs="#f45-r-figure-01">
+              <figDesc>手腕及袖口局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f45-l-caption-01" corresp="#f45-l-figure-01">
+              <seg type="diplomatic-text">肉瘤反花</seg>
+            </ab>
+            <figure facs="#f45-l-figure-01">
+              <figDesc>人物上身與色繪形體。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="46" facs="#f46" />
+        <div n="f46" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f46-r-caption-01" corresp="#f46-r-figure-01">
+              <seg type="diplomatic-text">腋下ヨリ乳下迄ノ失榮</seg>
+              <note type="editorial">連續直列，含片假名。</note>
+            </ab>
+            <figure facs="#f46-r-figure-01">
+              <figDesc>胸腹部正面局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f46-l-caption-01" corresp="#f46-l-figure-01">
+              <seg type="diplomatic-text">其二自潰</seg>
+            </ab>
+            <figure facs="#f46-l-figure-01">
+              <figDesc>側坐人物像。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="47" facs="#f47" />
+        <div n="f47" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f47-r-caption-01" corresp="#f47-r-figure-01">
+              <seg type="diplomatic-text">會陰菌毒</seg>
+            </ab>
+            <figure facs="#f47-r-figure-01">
+              <figDesc>有布紋及著色形體的身體局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-unlabelled">
+            <ab type="source-feature" subtype="unlabelled" facs="#f47-l-unlabelled-01" corresp="#f47-l-figure-01">
+              <note type="editorial">確認該圖幅無可辨圖題。</note>
+            </ab>
+            <figure facs="#f47-l-figure-01">
+              <figDesc>手與衣袖局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="48" facs="#f48" />
+        <div n="f48" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f48-r-caption-01" corresp="#f48-r-figure-01">
+              <seg type="diplomatic-text">火傷</seg>
+            </ab>
+            <figure facs="#f48-r-figure-01">
+              <figDesc>人物俯身坐姿全身圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f48-l-caption-01" corresp="#f48-l-figure-01">
+              <seg type="diplomatic-text">疱</seg>
+              <note type="editorial">末筆延至頁縫，亦近疣。</note>
+            </ab>
+            <figure facs="#f48-l-figure-01">
+              <figDesc>人物背面上身像，背部著色。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="49" facs="#f49" />
+        <div n="f49" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-unlabelled">
+            <ab type="source-feature" subtype="unlabelled" facs="#f49-r-unlabelled-01" corresp="#f49-r-figure-01">
+              <note type="editorial">確認該圖幅無可辨圖題。</note>
+            </ab>
+            <figure facs="#f49-r-figure-01">
+              <figDesc>有布紋及著色形體的身體局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f49-l-caption-01" corresp="#f49-l-figure-01">
+              <seg type="diplomatic-text">包莖下疳</seg>
+              <note type="editorial">次字艹頭；末字疑疳或痒。</note>
+            </ab>
+            <figure facs="#f49-l-figure-01">
+              <figDesc>有布紋及著色形體的身體局部圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="50" facs="#f50" />
+        <div n="f50" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f50-r-caption-01" corresp="#f50-r-figure-01">
+              <seg type="diplomatic-text">其二</seg>
+            </ab>
+            <figure facs="#f50-r-figure-01">
+              <figDesc>有布紋及著色形體的身體局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-unlabelled">
+            <ab type="source-feature" subtype="unlabelled" facs="#f50-l-unlabelled-01" corresp="#f50-l-figure-01">
+              <note type="editorial">確認該圖幅無可辨圖題。</note>
+            </ab>
+            <figure facs="#f50-l-figure-01">
+              <figDesc>坐姿人物上身圖，胸前色繪。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="51" facs="#f51" />
+        <div n="f51" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-unlabelled">
+            <ab type="source-feature" subtype="unlabelled" facs="#f51-r-unlabelled-01" corresp="#f51-r-figure-01">
+              <note type="editorial">確認該圖幅無可辨圖題。</note>
+            </ab>
+            <figure facs="#f51-r-figure-01">
+              <figDesc>坐姿人物上身圖，頸部有傷的描繪。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f51-l-caption-01" corresp="#f51-l-figure-01">
+              <seg type="diplomatic-text">安保對馬之醫<lb />松本煉次郎□圖</seg>
+              <note type="editorial">兩直欄依右先左後。保、煉與□處筆形待核。</note>
+            </ab>
+            <figure facs="#f51-l-figure-01">
+              <figDesc>立姿人物，衣裳、傷痕與器物為同面一圖。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="52" facs="#f52" />
+        <div n="f52" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f52-r-caption-01" corresp="#f52-r-figure-01">
+              <seg type="diplomatic-text">脫肛</seg>
+              <note type="editorial">兩字呈斜列。</note>
+            </ab>
+            <figure facs="#f52-r-figure-01">
+              <figDesc>有衣帶及著色形體的身體局部圖。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f52-l-caption-01" corresp="#f52-l-figure-01">
+              <seg type="diplomatic-text">金創</seg>
+            </ab>
+            <figure facs="#f52-l-figure-01">
+              <figDesc>側面人物上身像。</figDesc>
+            </figure>
+          </div>
+        </div>
+        <pb n="53" facs="#f53" />
+        <div n="f53" type="scan">
+          <div n="R" type="page-face" subtype="illustrated-captioned">
+            <ab type="source-feature" subtype="caption" facs="#f53-r-caption-01" corresp="#f53-r-figure-01">
+              <seg type="diplomatic-text">其二</seg>
+            </ab>
+            <figure facs="#f53-r-figure-01">
+              <figDesc>側轉人物上身，見線狀及縫線般圖記，原題未解釋其意。</figDesc>
+            </figure>
+          </div>
+          <div n="L" type="page-face" subtype="blank">
+            <ab type="source-feature" subtype="blank" facs="#f53-l-blank-01">
+              <note type="editorial">末葉左幅留白。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="54" facs="#f54" />
+        <div n="f54" type="scan">
+          <div n="F" type="page-face" subtype="binding-no-readable-text">
+            <ab type="source-feature" subtype="cover" facs="#f54-f-cover-01">
+              <note type="editorial">橙色封底，未見可辨題字。</note>
+            </ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

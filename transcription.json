@@ -1,0 +1,4584 @@
+{
+  "metadata": {
+    "title": "瘍科方之內〔瘍科圖錄〕",
+    "roman_title": "Yōka zuroku [Illustrated surgical atlas]",
+    "alternate_titles": [
+      "瘍科方之內",
+      "瘍科方之内",
+      "瘍科図録"
+    ],
+    "author": "佚名",
+    "date": "一圖記安政乙卯年（1855）；圖冊作者與編抄年代未詳。扉頁有大正七年（1918）入藏標記。",
+    "location": "京都（藏地）",
+    "repository": "京都大學附屬圖書館",
+    "collection": "富士川文庫",
+    "shelfmark": "ヨ/144",
+    "language": "lzh",
+    "languages": [
+      "lzh",
+      "ja",
+      "en"
+    ],
+    "catalogue": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005563",
+    "rights": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+    "description": "《瘍科方之內》是京都大學富士川文庫所藏手繪外科圖冊，館目題〔瘍科圖錄〕。全冊人物及局部彩圖有肉瘤、骨瘤、火傷與創傷等原筆題記，部分圖幅依「其二」「其三」成組，另有短記、日語旁釋與館藏印識。一圖記安政乙卯年（1855）；全冊作者、編抄年未詳。",
+    "txt_reader_statement": "全54幅來源影像依館方順序記錄，圖自第05幅左至第53幅右，共96面。雙葉依右、左序；方框□表示尚不能可靠判讀，斜線／分隔原件不同欄位。逐圖題附定位，另記無題圖、旁釋、封套、館記與留白。",
+    "tei_editorial_statement": "每幅對應館方 IIIF canvas，區域座標採寬2000像素的館方下載JPEG，圖題、小字、朱印、刪痕、圖幅與館錄資料分層。圖幅位置為人工選取的區域，圖檔由館方依連結供讀。",
+    "record_id": "RB00005563",
+    "edition": "0.1.0",
+    "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005563/manifest.json",
+    "manifest_sha256": "6b9beb4017541330b237cb47371c82d40bcd4c01c293055470c40b0005c1b6ea",
+    "catalogue_canvas_count": 54,
+    "catalogue_main_scope": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "main_scope_first_face": "f05L",
+    "main_scope_last_face": "f53R",
+    "coordinate_system": "top-left x,y zero-based delivered JPEG pixels; bbox upper-left and exclusive lower-right",
+    "version": "0.1.0",
+    "dataset_title": "瘍科方之內〔瘍科圖錄〕（一圖署1855年，京都大學 ヨ/144） / Yōka zuroku [Illustrated surgical atlas]: Illustration Caption Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p1",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00001_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "file": "01.jpg",
+      "sha256": "5240013e4614dce964d76102dd6a8b03d05ef2377caf43041981761bd74e73ad",
+      "bytes": 212236,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "binding-and-paratext",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "F": "paratext"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f01-f-title-01",
+          "side": "F",
+          "kind": "title",
+          "bbox": [
+            635,
+            130,
+            790,
+            692
+          ],
+          "lines": [
+            "瘍科方之內"
+          ],
+          "note_zh": "外函正面，末字為內的簡寫，f04L重見。"
+        }
+      ]
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p2",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00002_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "file": "02.jpg",
+      "sha256": "93f851e10e11ea0d6fbbafe44fa22a2e63a38afe5de72572254e8167c186a92d",
+      "bytes": 259001,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "binding-and-paratext",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "L": "paratext",
+        "S": "paratext"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f02-l-title-01",
+          "side": "L",
+          "kind": "title",
+          "bbox": [
+            214,
+            120,
+            330,
+            590
+          ],
+          "lines": [
+            "瘍科方之內"
+          ],
+          "note_zh": "外函展開，左側重見。"
+        },
+        {
+          "id": "f02-s-title-01",
+          "side": "S",
+          "kind": "title",
+          "bbox": [
+            932,
+            135,
+            990,
+            555
+          ],
+          "lines": [
+            "瘍科方之內"
+          ],
+          "note_zh": "函脊另題。"
+        },
+        {
+          "id": "f02-s-label-01",
+          "side": "S",
+          "kind": "label",
+          "bbox": [
+            934,
+            729,
+            985,
+            786
+          ],
+          "lines": [
+            "全"
+          ],
+          "note_zh": "函脊下段。"
+        },
+        {
+          "id": "f02-s-library-label-01",
+          "side": "S",
+          "kind": "library-label",
+          "bbox": [
+            920,
+            963,
+            1004,
+            1100
+          ],
+          "lines": [
+            "ヨ144"
+          ],
+          "note_zh": "近代架標，合併行讀僅為索引。",
+          "language": "ja"
+        }
+      ]
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p3",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00003_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "file": "03.jpg",
+      "sha256": "2c4628227568a37591279aa9380bb07ddb13e2db3faf321856ea5b128410918a",
+      "bytes": 208135,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "binding-and-paratext",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "F": "paratext"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f03-f-library-label-01",
+          "side": "F",
+          "kind": "library-label",
+          "bbox": [
+            1205,
+            148,
+            1286,
+            255
+          ],
+          "lines": [
+            "富士川本",
+            "ヨ",
+            "144"
+          ],
+          "note_zh": "橙色封面。斜線表示換列。",
+          "language": "ja"
+        }
+      ]
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p4",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00004_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "file": "04.jpg",
+      "sha256": "a8b419dc83262011c9575a0b66154447f4b4399f02a1743fd2e14805b8b25ef8",
+      "bytes": 197933,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "binding-and-paratext",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "paratext",
+        "L": "paratext"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f04-r-library-label-01",
+          "side": "R",
+          "kind": "library-label",
+          "bbox": [
+            1602,
+            145,
+            1680,
+            265
+          ],
+          "lines": [
+            "富士川本",
+            "ヨ",
+            "144"
+          ],
+          "note_zh": "扉頁右上。",
+          "language": "ja"
+        },
+        {
+          "id": "f04-r-seal-01",
+          "side": "R",
+          "kind": "seal",
+          "bbox": [
+            1060,
+            858,
+            1122,
+            955
+          ],
+          "lines": [
+            "□"
+          ],
+          "note_zh": "色極淺，外觀似透印；未認字。"
+        },
+        {
+          "id": "f04-l-title-01",
+          "side": "L",
+          "kind": "title",
+          "bbox": [
+            405,
+            320,
+            545,
+            1095
+          ],
+          "lines": [
+            "瘍科方之內"
+          ],
+          "note_zh": "原冊手寫內題。"
+        },
+        {
+          "id": "f04-l-seal-01",
+          "side": "L",
+          "kind": "seal",
+          "bbox": [
+            360,
+            350,
+            414,
+            430
+          ],
+          "lines": [
+            "□"
+          ],
+          "note_zh": "小紅圓印，漫漶。"
+        },
+        {
+          "id": "f04-l-seal-02",
+          "side": "L",
+          "kind": "seal",
+          "bbox": [
+            360,
+            885,
+            417,
+            967
+          ],
+          "lines": [
+            "□"
+          ],
+          "note_zh": "小紅圓印，漫漶。"
+        },
+        {
+          "id": "f04-l-seal-03",
+          "side": "L",
+          "kind": "seal",
+          "bbox": [
+            855,
+            848,
+            933,
+            1058
+          ],
+          "lines": [
+            "富士川游寄贈"
+          ],
+          "note_zh": "右下直列朱印。"
+        }
+      ]
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p5",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00005_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "file": "05.jpg",
+      "sha256": "209a9e52c6941b551406667f5fde54a13b01d882d3fc96ae2898ee41a8a5eef8",
+      "bytes": 209024,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "paratext",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f05-r-marginalia-01",
+          "side": "R",
+          "kind": "marginalia",
+          "bbox": [
+            1595,
+            940,
+            1670,
+            1208
+          ],
+          "lines": [
+            "五七一",
+            "□"
+          ],
+          "note_zh": "扉頁邊記無圖。下方草書未識，不以號碼類推；上方有漫漶朱印。"
+        },
+        {
+          "id": "f05-r-seal-01",
+          "side": "R",
+          "kind": "seal",
+          "bbox": [
+            1628,
+            850,
+            1655,
+            953
+          ],
+          "lines": [
+            "□"
+          ],
+          "note_zh": "扉頁右下細長朱痕，未認字。"
+        },
+        {
+          "id": "f05-l-library-stamp-01",
+          "side": "L",
+          "kind": "library-stamp",
+          "bbox": [
+            380,
+            162,
+            605,
+            322
+          ],
+          "lines": [
+            "187558",
+            "大正7.3.31"
+          ],
+          "note_zh": "橢圓圖書章。日期是入藏標記（1918年），不是抄成年代。",
+          "language": "ja"
+        },
+        {
+          "id": "f05-l-seal-01",
+          "side": "L",
+          "kind": "seal",
+          "bbox": [
+            620,
+            150,
+            832,
+            363
+          ],
+          "lines": [
+            "京都帝國大學圖書之印"
+          ],
+          "note_zh": "朱方印屬館藏；可讀字序待獨立核驗。"
+        },
+        {
+          "id": "f05-l-seal-02",
+          "side": "L",
+          "kind": "seal",
+          "bbox": [
+            887,
+            332,
+            936,
+            385
+          ],
+          "lines": [
+            "□"
+          ],
+          "note_zh": "圖題下圓印。"
+        },
+        {
+          "id": "f05-l-seal-03",
+          "side": "L",
+          "kind": "seal",
+          "bbox": [
+            882,
+            616,
+            935,
+            686
+          ],
+          "lines": [
+            "□"
+          ],
+          "note_zh": "額部圖像右側圓印。"
+        },
+        {
+          "id": "f05-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            875,
+            238,
+            913,
+            324
+          ],
+          "lines": [
+            "口痔"
+          ],
+          "note_zh": "痔為疒從寺。",
+          "figure": "f05-l-figure-01"
+        },
+        {
+          "id": "f05-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            273,
+            502,
+            981,
+            1222
+          ],
+          "lines": [],
+          "note_zh": "人物頭胸像，口部著色。"
+        }
+      ]
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p6",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00006_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "file": "06.jpg",
+      "sha256": "5ce06d6fd507ae65cbb210b4089d0a376d5c8fbaa8bdcaa92236bfdcdcd7b24c",
+      "bytes": 200851,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f06-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1588,
+            218,
+            1650,
+            355
+          ],
+          "lines": [
+            "骨瘤"
+          ],
+          "figure": "f06-r-figure-01"
+        },
+        {
+          "id": "f06-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            995,
+            575,
+            1688,
+            1228
+          ],
+          "lines": [],
+          "note_zh": "側轉頭胸像。"
+        },
+        {
+          "id": "f06-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            853,
+            217,
+            920,
+            359
+          ],
+          "lines": [
+            "骨瘤"
+          ],
+          "figure": "f06-l-figure-01"
+        },
+        {
+          "id": "f06-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            270,
+            497,
+            990,
+            1225
+          ],
+          "lines": [],
+          "note_zh": "正面頭胸像。"
+        }
+      ]
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p7",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00007_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "file": "07.jpg",
+      "sha256": "eac2f36cabb05423a45b5f3d8f6aafe4359d7e66ac4c49754a9cc949459766ad",
+      "bytes": 211195,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f07-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1597,
+            222,
+            1656,
+            342
+          ],
+          "lines": [
+            "肉瘤"
+          ],
+          "figure": "f07-r-figure-01"
+        },
+        {
+          "id": "f07-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            995,
+            491,
+            1692,
+            1222
+          ],
+          "lines": [],
+          "note_zh": "正面頭胸像。"
+        },
+        {
+          "id": "f07-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            858,
+            241,
+            921,
+            345
+          ],
+          "lines": [
+            "肩□"
+          ],
+          "note_zh": "次字似凡或几；底本形保留待裁。",
+          "figure": "f07-l-figure-01"
+        },
+        {
+          "id": "f07-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            272,
+            530,
+            990,
+            1223
+          ],
+          "lines": [],
+          "note_zh": "背面上身像。"
+        }
+      ]
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p8",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00008_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "file": "08.jpg",
+      "sha256": "7653920e1c7c2556c9781ba401fb17d0b8b58195927e6df872e978b0ba2a5d75",
+      "bytes": 195854,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f08-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1588,
+            244,
+            1640,
+            374
+          ],
+          "lines": [
+            "耳瘤"
+          ],
+          "figure": "f08-r-figure-01"
+        },
+        {
+          "id": "f08-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            1123,
+            624,
+            1698,
+            1224
+          ],
+          "lines": [],
+          "note_zh": "側面頭胸像。"
+        },
+        {
+          "id": "f08-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            874,
+            247,
+            930,
+            369
+          ],
+          "lines": [
+            "菌毒"
+          ],
+          "figure": "f08-l-figure-01"
+        },
+        {
+          "id": "f08-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            272,
+            519,
+            990,
+            1224
+          ],
+          "lines": [],
+          "note_zh": "側轉頭胸像，眼周著色。"
+        }
+      ]
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p9",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00009_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "file": "09.jpg",
+      "sha256": "9631e0a949da880ad4c75d4ac94708930bfcf227610f3e2f570a0721ba2b96be",
+      "bytes": 206340,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f09-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1580,
+            278,
+            1657,
+            454
+          ],
+          "lines": [
+            "眼胞菌毒"
+          ],
+          "figure": "f09-r-figure-01"
+        },
+        {
+          "id": "f09-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            1038,
+            507,
+            1685,
+            1226
+          ],
+          "lines": [],
+          "note_zh": "側面頭胸像。"
+        },
+        {
+          "id": "f09-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            856,
+            253,
+            918,
+            376
+          ],
+          "lines": [
+            "血痣"
+          ],
+          "note_zh": "次字下部見心。",
+          "figure": "f09-l-figure-01"
+        },
+        {
+          "id": "f09-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            270,
+            470,
+            1000,
+            1226
+          ],
+          "lines": [],
+          "note_zh": "正面頭胸像。"
+        }
+      ]
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p10",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00010_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "file": "10.jpg",
+      "sha256": "81ae351d41e84dfb7e02a44384b3cea1424f0deefe8fd83fd7b2ee723f646900",
+      "bytes": 213526,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f10-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1570,
+            255,
+            1653,
+            366
+          ],
+          "lines": [
+            "舌疽"
+          ],
+          "note_zh": "首字輪廓近舌或古，次字下部近且；題右另有細竪筆。",
+          "figure": "f10-r-figure-01"
+        },
+        {
+          "id": "f10-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            985,
+            487,
+            1650,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "正面頭胸像，舌外伸。"
+        },
+        {
+          "id": "f10-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            870,
+            242,
+            926,
+            350
+          ],
+          "lines": [
+            "肉瘤"
+          ],
+          "figure": "f10-l-figure-01"
+        },
+        {
+          "id": "f10-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            277,
+            590,
+            992,
+            1225
+          ],
+          "lines": [],
+          "note_zh": "側轉頭胸像。"
+        }
+      ]
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p11",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00011_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "file": "11.jpg",
+      "sha256": "3f2a516d3abd6132314b7372548c31ef7d81f6562db9f3573b2ba1e040edc24f",
+      "bytes": 206709,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f11-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1565,
+            253,
+            1618,
+            380
+          ],
+          "lines": [
+            "肉瘤"
+          ],
+          "figure": "f11-r-figure-01"
+        },
+        {
+          "id": "f11-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            1134,
+            604,
+            1668,
+            1231
+          ],
+          "lines": [],
+          "note_zh": "側面頭胸像。"
+        },
+        {
+          "id": "f11-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            879,
+            244,
+            936,
+            419
+          ],
+          "lines": [
+            "支馬疳"
+          ],
+          "note_zh": "首字草寫形近支，慣用名稱有走馬疳；末字待覆。",
+          "figure": "f11-l-figure-01"
+        },
+        {
+          "id": "f11-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            310,
+            575,
+            930,
+            1228
+          ],
+          "lines": [],
+          "note_zh": "正面頭胸像。"
+        }
+      ]
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p12",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00012_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "file": "12.jpg",
+      "sha256": "2c35a98e5f18b2782416caac265a3a9e334aadff257ca7e3e3215dc3ad080af5",
+      "bytes": 217140,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f12-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1560,
+            253,
+            1620,
+            382
+          ],
+          "lines": [
+            "肉瘤"
+          ],
+          "figure": "f12-r-figure-01"
+        },
+        {
+          "id": "f12-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            986,
+            710,
+            1669,
+            1231
+          ],
+          "lines": [],
+          "note_zh": "側轉頭胸像。"
+        },
+        {
+          "id": "f12-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            866,
+            246,
+            939,
+            422
+          ],
+          "lines": [
+            "小兒耳瘤"
+          ],
+          "figure": "f12-l-figure-01"
+        },
+        {
+          "id": "f12-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            276,
+            473,
+            971,
+            1231
+          ],
+          "lines": [],
+          "note_zh": "小兒頭胸像。"
+        }
+      ]
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p13",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00013_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "file": "13.jpg",
+      "sha256": "eac62653afa505842e0432217b17a33908709790e83a1dd8ff9ff7194380cdc6",
+      "bytes": 212656,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f13-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1504,
+            205,
+            1640,
+            426
+          ],
+          "lines": [
+            "虫胞頭皮肉間",
+            "生於白虫"
+          ],
+          "note_zh": "兩直欄按右左。虫字無繁化。皮、肉旁及白虫四周另見手繪框線。",
+          "figure": "f13-r-figure-01"
+        },
+        {
+          "id": "f13-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            1050,
+            587,
+            1655,
+            1231
+          ],
+          "lines": [],
+          "note_zh": "側轉頭胸像及頭部圖上筆記。"
+        },
+        {
+          "id": "f13-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            880,
+            249,
+            941,
+            374
+          ],
+          "lines": [
+            "肉瘤"
+          ],
+          "figure": "f13-l-figure-01"
+        },
+        {
+          "id": "f13-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            270,
+            548,
+            970,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "後仰頭胸像。"
+        }
+      ]
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p14",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00014_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "file": "14.jpg",
+      "sha256": "22dd4fd1e4983d6674f94812995ff0316baa447cb5df43e1cdeb0b40000dae17",
+      "bytes": 190169,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f14-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1540,
+            238,
+            1597,
+            337
+          ],
+          "lines": [
+            "其二"
+          ],
+          "note_zh": "前幅續題的字面讀法。",
+          "figure": "f14-r-figure-01"
+        },
+        {
+          "id": "f14-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            1150,
+            485,
+            1673,
+            1234
+          ],
+          "lines": [],
+          "note_zh": "同葉兩個色繪形體，合為一組。"
+        },
+        {
+          "id": "f14-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            876,
+            237,
+            934,
+            366
+          ],
+          "lines": [
+            "陰瘤"
+          ],
+          "figure": "f14-l-figure-01"
+        },
+        {
+          "id": "f14-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            282,
+            360,
+            953,
+            1231
+          ],
+          "lines": [],
+          "note_zh": "下腹部局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p15",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00015_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "file": "15.jpg",
+      "sha256": "05858383ea7cbe06a51effc9476e6fae845713f15497693bdc3cf8bfa1b9f4fb",
+      "bytes": 180391,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f15-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1558,
+            215,
+            1626,
+            316
+          ],
+          "lines": [
+            "其二"
+          ],
+          "figure": "f15-r-figure-01"
+        },
+        {
+          "id": "f15-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            986,
+            454,
+            1658,
+            1175
+          ],
+          "lines": [],
+          "note_zh": "下腹部局部圖。"
+        },
+        {
+          "id": "f15-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            875,
+            242,
+            949,
+            374
+          ],
+          "lines": [
+            "陰瘤"
+          ],
+          "figure": "f15-l-figure-01"
+        },
+        {
+          "id": "f15-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            275,
+            398,
+            967,
+            1229
+          ],
+          "lines": [],
+          "note_zh": "下腹部局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p16",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00016_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "file": "16.jpg",
+      "sha256": "7d74d1fe08524a79631b8f21f1d26116d4ea66581d2e396b9a6feeca5f4464f3",
+      "bytes": 175828,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f16-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1536,
+            292,
+            1602,
+            408
+          ],
+          "lines": [
+            "陰瘤"
+          ],
+          "figure": "f16-r-figure-01"
+        },
+        {
+          "id": "f16-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            978,
+            593,
+            1658,
+            1223
+          ],
+          "lines": [],
+          "note_zh": "下腹部局部圖。"
+        },
+        {
+          "id": "f16-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            853,
+            235,
+            918,
+            378
+          ],
+          "lines": [
+            "陰瘤"
+          ],
+          "figure": "f16-l-figure-01"
+        },
+        {
+          "id": "f16-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            270,
+            609,
+            936,
+            1225
+          ],
+          "lines": [],
+          "note_zh": "下腹部局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p17",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00017_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "17"
+        ]
+      },
+      "file": "17.jpg",
+      "sha256": "69cba42257e878f6ad6672c3e11787e6f3a1f68882390e5aa04d35c4e2a365da",
+      "bytes": 180267,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f17-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1516,
+            248,
+            1575,
+            356
+          ],
+          "lines": [
+            "陰瘤"
+          ],
+          "figure": "f17-r-figure-01"
+        },
+        {
+          "id": "f17-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            974,
+            612,
+            1657,
+            1221
+          ],
+          "lines": [],
+          "note_zh": "下腹部局部圖。"
+        },
+        {
+          "id": "f17-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            879,
+            222,
+            938,
+            376
+          ],
+          "lines": [
+            "是俗ニ云"
+          ],
+          "note_zh": "日語旁記另列。",
+          "figure": "f17-l-figure-01"
+        },
+        {
+          "id": "f17-l-gloss-01",
+          "side": "L",
+          "kind": "gloss",
+          "bbox": [
+            881,
+            353,
+            931,
+            449
+          ],
+          "lines": [
+            "マイタレ",
+            "ホヽナリ"
+          ],
+          "note_zh": "雙小列，右列先；左列的反覆記號及開頭待核。",
+          "language": "ja",
+          "figure": "f17-l-figure-01"
+        },
+        {
+          "id": "f17-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            284,
+            583,
+            963,
+            1226
+          ],
+          "lines": [],
+          "note_zh": "下腹部局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p18",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00018_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "18"
+        ]
+      },
+      "file": "18.jpg",
+      "sha256": "2b68d1a2ca6b8152fb3c61928b8d26bbdbe529053b5081e433e638907b04d9ff",
+      "bytes": 178387,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f18-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1505,
+            258,
+            1565,
+            375
+          ],
+          "lines": [
+            "陰瘤"
+          ],
+          "figure": "f18-r-figure-01"
+        },
+        {
+          "id": "f18-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            964,
+            501,
+            1662,
+            1222
+          ],
+          "lines": [],
+          "note_zh": "下腹部局部圖。"
+        },
+        {
+          "id": "f18-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            863,
+            235,
+            930,
+            384
+          ],
+          "lines": [
+            "鎖陰"
+          ],
+          "figure": "f18-l-figure-01"
+        },
+        {
+          "id": "f18-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            288,
+            590,
+            956,
+            1194
+          ],
+          "lines": [],
+          "note_zh": "下腹部局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p19",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00019_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "19"
+        ]
+      },
+      "file": "19.jpg",
+      "sha256": "97abc14c114f86ae96e6bb183d03ef871a83ecd7a75138e79f89e36b5d34c588",
+      "bytes": 202464,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f19-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1506,
+            246,
+            1583,
+            360
+          ],
+          "lines": [
+            "陰瘤"
+          ],
+          "figure": "f19-r-figure-01"
+        },
+        {
+          "id": "f19-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            962,
+            576,
+            1668,
+            1180
+          ],
+          "lines": [],
+          "note_zh": "下腹部局部圖。"
+        },
+        {
+          "id": "f19-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            872,
+            221,
+            933,
+            373
+          ],
+          "lines": [
+            "陰門反花"
+          ],
+          "figure": "f19-l-figure-01"
+        },
+        {
+          "id": "f19-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            285,
+            392,
+            965,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "正面蹲坐全身圖。"
+        }
+      ]
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p20",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00020_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "20"
+        ]
+      },
+      "file": "20.jpg",
+      "sha256": "9f1d0636067092cdc308e91130f3a3f3f9b0455bdaeda707a7b9eca987574285",
+      "bytes": 194891,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f20-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1526,
+            217,
+            1597,
+            386
+          ],
+          "lines": [
+            "肛門反花"
+          ],
+          "figure": "f20-r-figure-01"
+        },
+        {
+          "id": "f20-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            966,
+            626,
+            1660,
+            1155
+          ],
+          "lines": [],
+          "note_zh": "下腹部局部圖。"
+        },
+        {
+          "id": "f20-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            856,
+            394,
+            925,
+            520
+          ],
+          "lines": [
+            "血痣"
+          ],
+          "figure": "f20-l-figure-01"
+        },
+        {
+          "id": "f20-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            283,
+            241,
+            953,
+            1214
+          ],
+          "lines": [],
+          "note_zh": "下肢局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p21",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00021_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "21"
+        ]
+      },
+      "file": "21.jpg",
+      "sha256": "78eb214a04576101f1fbde0dc718e480d29fcf97d05ff1f25809e11536ccf678",
+      "bytes": 177955,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f21-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1500,
+            248,
+            1584,
+            389
+          ],
+          "lines": [
+            "脫疽"
+          ],
+          "figure": "f21-r-figure-01"
+        },
+        {
+          "id": "f21-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            961,
+            453,
+            1657,
+            1210
+          ],
+          "lines": [],
+          "note_zh": "下肢局部圖。"
+        },
+        {
+          "id": "f21-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            873,
+            239,
+            940,
+            328
+          ],
+          "lines": [
+            "其二"
+          ],
+          "figure": "f21-l-figure-01"
+        },
+        {
+          "id": "f21-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            278,
+            428,
+            955,
+            1225
+          ],
+          "lines": [],
+          "note_zh": "下肢局部圖，另有分離形體。"
+        }
+      ]
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p22",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00022_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "22"
+        ]
+      },
+      "file": "22.jpg",
+      "sha256": "9fd142dd474ef450f333c363b9fe69cc6f539fa1d6b63d8a33ee249717520fe1",
+      "bytes": 194163,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f22-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1230,
+            145,
+            1304,
+            244
+          ],
+          "lines": [
+            "骨瘤"
+          ],
+          "note_zh": "圖題位置向頁中央移，非欄首通例。",
+          "figure": "f22-r-figure-01"
+        },
+        {
+          "id": "f22-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            961,
+            160,
+            1657,
+            1229
+          ],
+          "lines": [],
+          "note_zh": "下肢局部圖。"
+        },
+        {
+          "id": "f22-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            863,
+            220,
+            943,
+            343
+          ],
+          "lines": [
+            "骨瘤"
+          ],
+          "figure": "f22-l-figure-01"
+        },
+        {
+          "id": "f22-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            276,
+            503,
+            962,
+            1228
+          ],
+          "lines": [],
+          "note_zh": "帶衣袖上肢局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p23",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00023_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "23"
+        ]
+      },
+      "file": "23.jpg",
+      "sha256": "789d0c4e667250ed03214d72d58f5a34f4ae67291196d7df5e65a9c101382c8c",
+      "bytes": 195956,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f23-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1517,
+            225,
+            1564,
+            317
+          ],
+          "lines": [
+            "六指"
+          ],
+          "figure": "f23-r-figure-01"
+        },
+        {
+          "id": "f23-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            1100,
+            655,
+            1645,
+            1000
+          ],
+          "lines": [],
+          "note_zh": "帶衣袖的上肢局部圖。"
+        },
+        {
+          "id": "f23-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            846,
+            205,
+            920,
+            385
+          ],
+          "lines": [
+            "無名指ノ瘤"
+          ],
+          "note_zh": "漢字間有片假名ノ。",
+          "figure": "f23-l-figure-01"
+        },
+        {
+          "id": "f23-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            270,
+            424,
+            955,
+            1225
+          ],
+          "lines": [],
+          "note_zh": "掌、腕與衣袖局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p24",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00024_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "24"
+        ]
+      },
+      "file": "24.jpg",
+      "sha256": "3333fd798259d8db434fa56c42a2b7e9d305c52e63d844ad06e1e35366a5bd78",
+      "bytes": 195337,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f24-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1500,
+            243,
+            1566,
+            380
+          ],
+          "lines": [
+            "骨瘤"
+          ],
+          "figure": "f24-r-figure-01"
+        },
+        {
+          "id": "f24-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            1090,
+            668,
+            1615,
+            1010
+          ],
+          "lines": [],
+          "note_zh": "手與手腕局部圖。"
+        },
+        {
+          "id": "f24-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            846,
+            222,
+            915,
+            329
+          ],
+          "lines": [
+            "火傷"
+          ],
+          "figure": "f24-l-figure-01"
+        },
+        {
+          "id": "f24-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            300,
+            496,
+            890,
+            1219
+          ],
+          "lines": [],
+          "note_zh": "坐姿人物全身圖。"
+        }
+      ]
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p25",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00025_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "25"
+        ]
+      },
+      "file": "25.jpg",
+      "sha256": "8702e210cd3cda21b3190ddaf28537c211224946d1cb6e358e72dcbdd9d750a3",
+      "bytes": 209389,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f25-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1533,
+            241,
+            1591,
+            327
+          ],
+          "lines": [
+            "其二"
+          ],
+          "figure": "f25-r-figure-01"
+        },
+        {
+          "id": "f25-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            1054,
+            479,
+            1615,
+            1217
+          ],
+          "lines": [],
+          "note_zh": "側斜坐姿人物全身圖。"
+        },
+        {
+          "id": "f25-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            830,
+            228,
+            925,
+            406
+          ],
+          "lines": [
+            "血痣反花"
+          ],
+          "figure": "f25-l-figure-01"
+        },
+        {
+          "id": "f25-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            280,
+            416,
+            900,
+            1224
+          ],
+          "lines": [],
+          "note_zh": "側背坐姿人物全身圖。"
+        }
+      ]
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p26",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00026_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "26"
+        ]
+      },
+      "file": "26.jpg",
+      "sha256": "59cc01276079bb3207d2375ba776ea4f0f0b4d91732d0c52f138868ab5fc4c57",
+      "bytes": 200956,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f26-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1495,
+            285,
+            1554,
+            372
+          ],
+          "lines": [
+            "其二"
+          ],
+          "note_zh": "左旁另有淡曲筆。",
+          "figure": "f26-r-figure-01"
+        },
+        {
+          "id": "f26-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            1051,
+            710,
+            1595,
+            1150
+          ],
+          "lines": [],
+          "note_zh": "分離色繪形體，同頁一組。"
+        },
+        {
+          "id": "f26-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            851,
+            247,
+            917,
+            354
+          ],
+          "lines": [
+            "血瘤"
+          ],
+          "figure": "f26-l-figure-01"
+        },
+        {
+          "id": "f26-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            282,
+            481,
+            932,
+            1217
+          ],
+          "lines": [],
+          "note_zh": "坐姿側面人物全身圖。"
+        }
+      ]
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p27",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00027_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "27"
+        ]
+      },
+      "file": "27.jpg",
+      "sha256": "b886d34992912ec8cd03718e0dfe777af5f3cfbb849fb0c0a3e61d79087dc540",
+      "bytes": 198701,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f27-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1498,
+            265,
+            1573,
+            373
+          ],
+          "lines": [
+            "火傷"
+          ],
+          "figure": "f27-r-figure-01"
+        },
+        {
+          "id": "f27-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            1085,
+            509,
+            1530,
+            1194
+          ],
+          "lines": [],
+          "note_zh": "側坐人物全身圖。"
+        },
+        {
+          "id": "f27-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            843,
+            244,
+            911,
+            350
+          ],
+          "lines": [
+            "肉瘤"
+          ],
+          "figure": "f27-l-figure-01"
+        },
+        {
+          "id": "f27-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            306,
+            491,
+            909,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "坐姿人物全身圖，胸上有色繪。"
+        }
+      ]
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p28",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00028_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "28"
+        ]
+      },
+      "file": "28.jpg",
+      "sha256": "037b16575318342d0ea51561777580161926f7965ade5759279a782c5d129978",
+      "bytes": 239319,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f28-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1514,
+            218,
+            1582,
+            310
+          ],
+          "lines": [
+            "兩陰"
+          ],
+          "figure": "f28-r-figure-01"
+        },
+        {
+          "id": "f28-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            1070,
+            458,
+            1615,
+            1226
+          ],
+          "lines": [],
+          "note_zh": "正面屈腿坐姿人物全身圖。"
+        },
+        {
+          "id": "f28-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            825,
+            370,
+            943,
+            543
+          ],
+          "lines": [
+            "癭瘤"
+          ],
+          "note_zh": "第一字從疒、下似嬰。",
+          "figure": "f28-l-figure-01"
+        },
+        {
+          "id": "f28-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            264,
+            397,
+            971,
+            1230
+          ],
+          "lines": [],
+          "note_zh": "側背坐姿人物全身圖。"
+        }
+      ]
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p29",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00029_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "29"
+        ]
+      },
+      "file": "29.jpg",
+      "sha256": "0e856e13142e8ff72bbd1f0b05cde0415f972183ddda4873d49c55afad4a737e",
+      "bytes": 232433,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f29-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1498,
+            334,
+            1569,
+            544
+          ],
+          "lines": [
+            "肉瘤反花"
+          ],
+          "figure": "f29-r-figure-01"
+        },
+        {
+          "id": "f29-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            969,
+            509,
+            1655,
+            1231
+          ],
+          "lines": [],
+          "note_zh": "人物頭肩背面，頸部著色。"
+        },
+        {
+          "id": "f29-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            902,
+            274,
+            969,
+            425
+          ],
+          "lines": [
+            "脫疽"
+          ],
+          "figure": "f29-l-figure-01"
+        },
+        {
+          "id": "f29-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            278,
+            430,
+            970,
+            1229
+          ],
+          "lines": [],
+          "note_zh": "屈曲下肢局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p30",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00030_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "30"
+        ]
+      },
+      "file": "30.jpg",
+      "sha256": "02e7fb37d5878f8881363a825f75f994ab371d0e2d471422ee5b54de5aa24e29",
+      "bytes": 248543,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f30-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1310,
+            985,
+            1419,
+            1178
+          ],
+          "lines": [
+            "大肉瘤"
+          ],
+          "note_zh": "題靠圖下緣。",
+          "figure": "f30-r-figure-01"
+        },
+        {
+          "id": "f30-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            969,
+            112,
+            1654,
+            1229
+          ],
+          "lines": [],
+          "note_zh": "側身、上肢局部圖。"
+        },
+        {
+          "id": "f30-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            922,
+            1081,
+            974,
+            1179
+          ],
+          "lines": [
+            "其二"
+          ],
+          "note_zh": "題靠圖下緣。",
+          "figure": "f30-l-figure-01"
+        },
+        {
+          "id": "f30-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            271,
+            110,
+            973,
+            1232
+          ],
+          "lines": [],
+          "note_zh": "人體局部及著色形體圖。"
+        }
+      ]
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p31",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00031_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "31"
+        ]
+      },
+      "file": "31.jpg",
+      "sha256": "9051f4f2046551dd12c1368b1f295c8d3d36cf22e0ab6c3916c6421a2203c7ce",
+      "bytes": 241554,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f31-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1110,
+            135,
+            1320,
+            286
+          ],
+          "lines": [
+            "其三",
+            "月形八百目"
+          ],
+          "note_zh": "題字順紙緣側向寫，右列先；月疑同，末形亦可能日。",
+          "figure": "f31-r-figure-01"
+        },
+        {
+          "id": "f31-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            969,
+            270,
+            1613,
+            1229
+          ],
+          "lines": [],
+          "note_zh": "容器與著色形體圖。"
+        },
+        {
+          "id": "f31-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            818,
+            451,
+            956,
+            715
+          ],
+          "lines": [
+            "東醫某",
+            "舌疽"
+          ],
+          "note_zh": "右列署稱性短記，左列題名。",
+          "figure": "f31-l-figure-01"
+        },
+        {
+          "id": "f31-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            273,
+            465,
+            950,
+            1225
+          ],
+          "lines": [],
+          "note_zh": "側面上身像，舌外伸。"
+        }
+      ]
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p32",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00032_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "32"
+        ]
+      },
+      "file": "32.jpg",
+      "sha256": "4c461e9edd65907d9ca34559d23d3490bd7277ec362e36402f62ff0a804509ad",
+      "bytes": 228122,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f32-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1510,
+            164,
+            1595,
+            296
+          ],
+          "lines": [
+            "乳癭"
+          ],
+          "figure": "f32-r-figure-01"
+        },
+        {
+          "id": "f32-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            965,
+            122,
+            1666,
+            1228
+          ],
+          "lines": [],
+          "note_zh": "正面胸腹部局部圖。"
+        },
+        {
+          "id": "f32-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            909,
+            179,
+            971,
+            294
+          ],
+          "lines": [
+            "其二"
+          ],
+          "figure": "f32-l-figure-01"
+        },
+        {
+          "id": "f32-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            271,
+            113,
+            976,
+            1229
+          ],
+          "lines": [],
+          "note_zh": "正面胸腹部局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p33",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00033_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "33"
+        ]
+      },
+      "file": "33.jpg",
+      "sha256": "bda0d3fafab086cbaed6cc538a9e181de1ff452e14361f9a153a50c3a49f9523",
+      "bytes": 241439,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f33-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1537,
+            200,
+            1608,
+            358
+          ],
+          "lines": [
+            "其三"
+          ],
+          "figure": "f33-r-figure-01"
+        },
+        {
+          "id": "f33-r-note-01",
+          "side": "R",
+          "kind": "note",
+          "bbox": [
+            1528,
+            464,
+            1604,
+            632
+          ],
+          "lines": [
+            "三拾五目"
+          ],
+          "note_zh": "末字與日形難分；旁記另列。",
+          "figure": "f33-r-figure-01"
+        },
+        {
+          "id": "f33-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            978,
+            612,
+            1663,
+            1229
+          ],
+          "lines": [],
+          "note_zh": "有色橢圓形體繪於紙片形輪廓。"
+        },
+        {
+          "id": "f33-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            883,
+            350,
+            965,
+            603
+          ],
+          "lines": [
+            "肉瘤反花"
+          ],
+          "figure": "f33-l-figure-01"
+        },
+        {
+          "id": "f33-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            269,
+            408,
+            973,
+            1230
+          ],
+          "lines": [],
+          "note_zh": "側坐人物像與胸前色繪。"
+        }
+      ]
+    },
+    {
+      "image": 34,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p34",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00034_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "34"
+        ]
+      },
+      "file": "34.jpg",
+      "sha256": "1f96ab7d8f3a838034df4278e3bde52ccc68d46a6845bed8ef8607e4379ae4f6",
+      "bytes": 282161,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f34-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1501,
+            214,
+            1627,
+            493
+          ],
+          "lines": [
+            "乳癧為岩狀"
+          ],
+          "note_zh": "次字見疒與似歷下部。",
+          "figure": "f34-r-figure-01"
+        },
+        {
+          "id": "f34-r-note-01",
+          "side": "R",
+          "kind": "note",
+          "bbox": [
+            1522,
+            562,
+            1625,
+            706
+          ],
+          "lines": [
+            "癧サリ"
+          ],
+          "note_zh": "與上條癧形近同；片假末形待核。",
+          "figure": "f34-r-figure-01"
+        },
+        {
+          "id": "f34-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            965,
+            269,
+            1665,
+            1229
+          ],
+          "lines": [],
+          "note_zh": "側坐人物像。"
+        },
+        {
+          "id": "f34-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            879,
+            405,
+            978,
+            622
+          ],
+          "lines": [
+            "子宮脫"
+          ],
+          "figure": "f34-l-figure-01"
+        },
+        {
+          "id": "f34-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            270,
+            109,
+            978,
+            1231
+          ],
+          "lines": [],
+          "note_zh": "有布紋及著色形體的身體局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 35,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p35",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00035_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "35"
+        ]
+      },
+      "file": "35.jpg",
+      "sha256": "af06bad1a9398459d66af8cf627d1732872d7599c81f71023d8647c210d3cef4",
+      "bytes": 272997,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f35-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1557,
+            339,
+            1644,
+            488
+          ],
+          "lines": [
+            "臓毒"
+          ],
+          "note_zh": "第一字右部寫法近臓。",
+          "figure": "f35-r-figure-01"
+        },
+        {
+          "id": "f35-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            967,
+            109,
+            1646,
+            1228
+          ],
+          "lines": [],
+          "note_zh": "有布紋及著色形體的身體局部圖。"
+        },
+        {
+          "id": "f35-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            860,
+            316,
+            951,
+            548
+          ],
+          "lines": [
+            "乳岩自潰"
+          ],
+          "figure": "f35-l-figure-01"
+        },
+        {
+          "id": "f35-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            286,
+            459,
+            978,
+            1231
+          ],
+          "lines": [],
+          "note_zh": "側轉人物上身像。"
+        }
+      ]
+    },
+    {
+      "image": 36,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p36",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00036_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "36"
+        ]
+      },
+      "file": "36.jpg",
+      "sha256": "f5c9b6bab6ffac34e1ab64c1dd721a7762dd13c8ff0b29ab031866be345f8d37",
+      "bytes": 233700,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f36-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1494,
+            224,
+            1597,
+            432
+          ],
+          "lines": [
+            "上齶疱"
+          ],
+          "note_zh": "末字似疒包，也可能疣，未逕改。",
+          "figure": "f36-r-figure-01"
+        },
+        {
+          "id": "f36-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            976,
+            487,
+            1634,
+            1230
+          ],
+          "lines": [],
+          "note_zh": "人物頭胸像與面部色繪。"
+        },
+        {
+          "id": "f36-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            878,
+            285,
+            975,
+            429
+          ],
+          "lines": [
+            "脹滿"
+          ],
+          "figure": "f36-l-figure-01"
+        },
+        {
+          "id": "f36-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            270,
+            423,
+            979,
+            1232
+          ],
+          "lines": [],
+          "note_zh": "側面坐像，左有器物。"
+        }
+      ]
+    },
+    {
+      "image": 37,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p37",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00037_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "37"
+        ]
+      },
+      "file": "37.jpg",
+      "sha256": "0117b4ceca345db6b1c538ad61784a17b14dbce53f6517dcd77f1f8c17de22d3",
+      "bytes": 257116,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f37-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1336,
+            148,
+            1644,
+            425
+          ],
+          "lines": [
+            "安政乙卯歳",
+            "八月十四日ニ",
+            "御手廻リ之",
+            "喧嘩ニ",
+            "金創"
+          ],
+          "note_zh": "五欄依圖由右至左排列。帶1855年個案紀年。",
+          "figure": "f37-r-figure-01"
+        },
+        {
+          "id": "f37-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            975,
+            133,
+            1647,
+            1233
+          ],
+          "lines": [],
+          "note_zh": "多姿勢連綴的身體局部彩圖。"
+        },
+        {
+          "id": "f37-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            825,
+            215,
+            897,
+            360
+          ],
+          "lines": [
+            "痔漏"
+          ],
+          "note_zh": "靠右另有濃墨塗改。",
+          "figure": "f37-l-figure-01"
+        },
+        {
+          "id": "f37-l-cancelled-text-01",
+          "side": "L",
+          "kind": "cancelled-text",
+          "bbox": [
+            916,
+            260,
+            976,
+            479
+          ],
+          "lines": [
+            "□"
+          ],
+          "note_zh": "原字為濃墨覆蓋，保留區域。",
+          "figure": "f37-l-figure-01"
+        },
+        {
+          "id": "f37-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            269,
+            108,
+            973,
+            1230
+          ],
+          "lines": [],
+          "note_zh": "有布紋及著色形體的身體局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 38,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p38",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00038_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "38"
+        ]
+      },
+      "file": "38.jpg",
+      "sha256": "39dc473d06c8ecd6b012bbfd2ae8ae688a6929b8d25f4559aa8849c0d7a9daa4",
+      "bytes": 222706,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-unlabelled"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f38-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1519,
+            315,
+            1597,
+            408
+          ],
+          "lines": [
+            "疱"
+          ],
+          "note_zh": "亦近疣，與f48L相參但不類推。",
+          "figure": "f38-r-figure-01"
+        },
+        {
+          "id": "f38-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            974,
+            480,
+            1612,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "從背側繪製的人物上身圖。"
+        },
+        {
+          "id": "f38-l-unlabelled-01",
+          "side": "L",
+          "kind": "unlabelled",
+          "bbox": [
+            277,
+            128,
+            962,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "確認該圖幅無可辨圖題。",
+          "figure": "f38-l-figure-01"
+        },
+        {
+          "id": "f38-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            273,
+            483,
+            974,
+            1228
+          ],
+          "lines": [],
+          "note_zh": "側斜上身圖，面頰著色。"
+        }
+      ]
+    },
+    {
+      "image": 39,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p39",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00039_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "39"
+        ]
+      },
+      "file": "39.jpg",
+      "sha256": "5aeb8eec39bb8e9e50d66f33074ab43a7337cd9df5046ffcc770c5fce0cb46d7",
+      "bytes": 255245,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f39-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1534,
+            230,
+            1614,
+            334
+          ],
+          "lines": [
+            "便毒"
+          ],
+          "note_zh": "舊病名詞形保持。",
+          "figure": "f39-r-figure-01"
+        },
+        {
+          "id": "f39-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            966,
+            252,
+            1650,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "有布紋及著色形體的身體局部圖。"
+        },
+        {
+          "id": "f39-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            877,
+            433,
+            951,
+            562
+          ],
+          "lines": [
+            "鎖陰"
+          ],
+          "figure": "f39-l-figure-01"
+        },
+        {
+          "id": "f39-l-gloss-01",
+          "side": "L",
+          "kind": "gloss",
+          "bbox": [
+            877,
+            558,
+            942,
+            720
+          ],
+          "lines": [
+            "俗ニ云",
+            "アナ",
+            "ナシ"
+          ],
+          "note_zh": "主小字和右左雙小欄分列。",
+          "language": "ja",
+          "figure": "f39-l-figure-01"
+        },
+        {
+          "id": "f39-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            269,
+            105,
+            975,
+            1230
+          ],
+          "lines": [],
+          "note_zh": "有布紋的身體局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 40,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p40",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00040_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "40"
+        ]
+      },
+      "file": "40.jpg",
+      "sha256": "36ff4f06303668dcdeaedf69c0458a548f96e7ed3b4a98d9ae31056e45639a81",
+      "bytes": 226039,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f40-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1454,
+            440,
+            1518,
+            526
+          ],
+          "lines": [
+            "肉瘤"
+          ],
+          "figure": "f40-r-figure-01"
+        },
+        {
+          "id": "f40-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            967,
+            502,
+            1592,
+            1228
+          ],
+          "lines": [],
+          "note_zh": "側面上身像。"
+        },
+        {
+          "id": "f40-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            851,
+            336,
+            943,
+            505
+          ],
+          "lines": [
+            "結毒反花"
+          ],
+          "figure": "f40-l-figure-01"
+        },
+        {
+          "id": "f40-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            270,
+            480,
+            975,
+            1229
+          ],
+          "lines": [],
+          "note_zh": "正面上身像。"
+        }
+      ]
+    },
+    {
+      "image": 41,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p41",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00041_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "41"
+        ]
+      },
+      "file": "41.jpg",
+      "sha256": "518242f32252a8478cc550b48f24de80e8353ade4fdf2275f38af9b60a0ac2a2",
+      "bytes": 231384,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f41-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1510,
+            284,
+            1591,
+            475
+          ],
+          "lines": [
+            "對口疽"
+          ],
+          "figure": "f41-r-figure-01"
+        },
+        {
+          "id": "f41-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            972,
+            503,
+            1657,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "側背上身像。"
+        },
+        {
+          "id": "f41-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            854,
+            318,
+            925,
+            437
+          ],
+          "lines": [
+            "火傷"
+          ],
+          "figure": "f41-l-figure-01"
+        },
+        {
+          "id": "f41-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            276,
+            516,
+            963,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "手與衣袖局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 42,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p42",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00042_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "42"
+        ]
+      },
+      "file": "42.jpg",
+      "sha256": "cef36dc2a0f73b96d2234330d49980268d557872d0cfe052309c0e6b9374d7ad",
+      "bytes": 236860,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f42-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1558,
+            461,
+            1638,
+            581
+          ],
+          "lines": [
+            "結毒"
+          ],
+          "figure": "f42-r-figure-01"
+        },
+        {
+          "id": "f42-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            973,
+            236,
+            1641,
+            1231
+          ],
+          "lines": [],
+          "note_zh": "下肢局部圖。"
+        },
+        {
+          "id": "f42-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            873,
+            283,
+            967,
+            509
+          ],
+          "lines": [
+            "喧嘩金創"
+          ],
+          "note_zh": "次字形近嘩，題末大筆豎伸。",
+          "figure": "f42-l-figure-01"
+        },
+        {
+          "id": "f42-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            269,
+            492,
+            970,
+            1228
+          ],
+          "lines": [],
+          "note_zh": "側轉人物上身像，頭部著色。"
+        }
+      ]
+    },
+    {
+      "image": 43,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p43",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00043_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "43"
+        ]
+      },
+      "file": "43.jpg",
+      "sha256": "9aa41c54e88b7a8b7633f366abe8a852128eb164ae96063c32501c8a08a2abce",
+      "bytes": 215020,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f43-r-mark-01",
+          "side": "R",
+          "kind": "mark",
+          "bbox": [
+            1443,
+            130,
+            1620,
+            292
+          ],
+          "lines": [],
+          "note_zh": "細線末端下斜，有箭頭形；不當作文字。"
+        },
+        {
+          "id": "f43-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1197,
+            745,
+            1308,
+            965
+          ],
+          "lines": [
+            "穿踝疽"
+          ],
+          "note_zh": "第二字見足旁和果部。",
+          "figure": "f43-r-figure-01"
+        },
+        {
+          "id": "f43-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            997,
+            316,
+            1650,
+            1228
+          ],
+          "lines": [],
+          "note_zh": "屈曲下肢局部圖。"
+        },
+        {
+          "id": "f43-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            894,
+            270,
+            963,
+            377
+          ],
+          "lines": [
+            "六指"
+          ],
+          "figure": "f43-l-figure-01"
+        },
+        {
+          "id": "f43-l-caption-02",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            545,
+            1014,
+            632,
+            1128
+          ],
+          "lines": [
+            "拇指"
+          ],
+          "note_zh": "首字似拇或按，初擬拇；下圖旁獨立圖題。",
+          "figure": "f43-l-figure-01"
+        },
+        {
+          "id": "f43-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            272,
+            508,
+            973,
+            1218
+          ],
+          "lines": [],
+          "note_zh": "兩組手、腕與衣袖，同面一組。"
+        }
+      ]
+    },
+    {
+      "image": 44,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p44",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00044_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "44"
+        ]
+      },
+      "file": "44.jpg",
+      "sha256": "04f7b4538b3e7f3ab1a36ebed876d2cffffdae064522ef7a8111872ea42afee4",
+      "bytes": 240300,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f44-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1515,
+            292,
+            1608,
+            439
+          ],
+          "lines": [
+            "缺唇"
+          ],
+          "figure": "f44-r-figure-01"
+        },
+        {
+          "id": "f44-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            976,
+            446,
+            1661,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "小兒側轉頭胸像。"
+        },
+        {
+          "id": "f44-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            899,
+            232,
+            970,
+            380
+          ],
+          "lines": [
+            "陰瘤"
+          ],
+          "figure": "f44-l-figure-01"
+        },
+        {
+          "id": "f44-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            267,
+            300,
+            976,
+            1215
+          ],
+          "lines": [],
+          "note_zh": "有布紋及著色形體的身體局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 45,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p45",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00045_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "45"
+        ]
+      },
+      "file": "45.jpg",
+      "sha256": "9b676825f7d587a308b40ee0a62ad287d9e849b62b8745f37a518abfbad64939",
+      "bytes": 214696,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f45-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1509,
+            299,
+            1597,
+            421
+          ],
+          "lines": [
+            "火傷"
+          ],
+          "figure": "f45-r-figure-01"
+        },
+        {
+          "id": "f45-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            1100,
+            510,
+            1649,
+            1110
+          ],
+          "lines": [],
+          "note_zh": "手腕及袖口局部圖。"
+        },
+        {
+          "id": "f45-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            898,
+            248,
+            973,
+            514
+          ],
+          "lines": [
+            "肉瘤反花"
+          ],
+          "figure": "f45-l-figure-01"
+        },
+        {
+          "id": "f45-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            269,
+            402,
+            973,
+            1228
+          ],
+          "lines": [],
+          "note_zh": "人物上身與色繪形體。"
+        }
+      ]
+    },
+    {
+      "image": 46,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p46",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00046_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "46"
+        ]
+      },
+      "file": "46.jpg",
+      "sha256": "c7b47f35d24204de9addac040cdeeb9ba0df4dd100bb9ab0a813dd5bb0223c4b",
+      "bytes": 224814,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f46-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1550,
+            174,
+            1648,
+            619
+          ],
+          "lines": [
+            "腋下ヨリ乳下迄ノ失榮"
+          ],
+          "note_zh": "連續直列，含片假名。",
+          "figure": "f46-r-figure-01"
+        },
+        {
+          "id": "f46-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            969,
+            123,
+            1648,
+            1228
+          ],
+          "lines": [],
+          "note_zh": "胸腹部正面局部圖。"
+        },
+        {
+          "id": "f46-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            914,
+            244,
+            974,
+            423
+          ],
+          "lines": [
+            "其二自潰"
+          ],
+          "figure": "f46-l-figure-01"
+        },
+        {
+          "id": "f46-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            273,
+            422,
+            974,
+            1229
+          ],
+          "lines": [],
+          "note_zh": "側坐人物像。"
+        }
+      ]
+    },
+    {
+      "image": 47,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p47",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00047_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "47"
+        ]
+      },
+      "file": "47.jpg",
+      "sha256": "c0a7959883256450d3ae05dc18eedb44ae2097d04b8b01119dac1bb0c37ee21f",
+      "bytes": 234592,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-unlabelled"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f47-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1535,
+            274,
+            1630,
+            521
+          ],
+          "lines": [
+            "會陰菌毒"
+          ],
+          "figure": "f47-r-figure-01"
+        },
+        {
+          "id": "f47-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            967,
+            243,
+            1645,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "有布紋及著色形體的身體局部圖。"
+        },
+        {
+          "id": "f47-l-unlabelled-01",
+          "side": "L",
+          "kind": "unlabelled",
+          "bbox": [
+            266,
+            125,
+            975,
+            1226
+          ],
+          "lines": [],
+          "note_zh": "確認該圖幅無可辨圖題。",
+          "figure": "f47-l-figure-01"
+        },
+        {
+          "id": "f47-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            409,
+            597,
+            975,
+            1226
+          ],
+          "lines": [],
+          "note_zh": "手與衣袖局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 48,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p48",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00048_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "48"
+        ]
+      },
+      "file": "48.jpg",
+      "sha256": "57bb1da8f380cd2984e8806c5c42f150da3e0949cdc6a3390cac1857d253bfd8",
+      "bytes": 226132,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f48-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1513,
+            355,
+            1592,
+            468
+          ],
+          "lines": [
+            "火傷"
+          ],
+          "figure": "f48-r-figure-01"
+        },
+        {
+          "id": "f48-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            1004,
+            456,
+            1588,
+            1189
+          ],
+          "lines": [],
+          "note_zh": "人物俯身坐姿全身圖。"
+        },
+        {
+          "id": "f48-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            886,
+            365,
+            964,
+            478
+          ],
+          "lines": [
+            "疱"
+          ],
+          "note_zh": "末筆延至頁縫，亦近疣。",
+          "figure": "f48-l-figure-01"
+        },
+        {
+          "id": "f48-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            275,
+            364,
+            970,
+            1228
+          ],
+          "lines": [],
+          "note_zh": "人物背面上身像，背部著色。"
+        }
+      ]
+    },
+    {
+      "image": 49,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p49",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00049_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "49"
+        ]
+      },
+      "file": "49.jpg",
+      "sha256": "fab59e367760334e622fa9455b0f9cb21efe1332ae8967774019181d212e2934",
+      "bytes": 270298,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-unlabelled",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f49-r-unlabelled-01",
+          "side": "R",
+          "kind": "unlabelled",
+          "bbox": [
+            969,
+            114,
+            1655,
+            1230
+          ],
+          "lines": [],
+          "note_zh": "確認該圖幅無可辨圖題。",
+          "figure": "f49-r-figure-01"
+        },
+        {
+          "id": "f49-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            969,
+            114,
+            1655,
+            1230
+          ],
+          "lines": [],
+          "note_zh": "有布紋及著色形體的身體局部圖。"
+        },
+        {
+          "id": "f49-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            884,
+            155,
+            954,
+            405
+          ],
+          "lines": [
+            "包莖下疳"
+          ],
+          "note_zh": "次字艹頭；末字疑疳或痒。",
+          "figure": "f49-l-figure-01"
+        },
+        {
+          "id": "f49-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            279,
+            122,
+            973,
+            1223
+          ],
+          "lines": [],
+          "note_zh": "有布紋及著色形體的身體局部圖。"
+        }
+      ]
+    },
+    {
+      "image": 50,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p50",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00050_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "50"
+        ]
+      },
+      "file": "50.jpg",
+      "sha256": "10d2f20e54c943c255ee17ceecdb580a2f6702209122c0ef12bc23e6cc1cd2ad",
+      "bytes": 248204,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-unlabelled"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f50-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1529,
+            160,
+            1601,
+            264
+          ],
+          "lines": [
+            "其二"
+          ],
+          "figure": "f50-r-figure-01"
+        },
+        {
+          "id": "f50-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            971,
+            119,
+            1655,
+            1224
+          ],
+          "lines": [],
+          "note_zh": "有布紋及著色形體的身體局部圖。"
+        },
+        {
+          "id": "f50-l-unlabelled-01",
+          "side": "L",
+          "kind": "unlabelled",
+          "bbox": [
+            269,
+            120,
+            974,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "確認該圖幅無可辨圖題。",
+          "figure": "f50-l-figure-01"
+        },
+        {
+          "id": "f50-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            271,
+            440,
+            975,
+            1225
+          ],
+          "lines": [],
+          "note_zh": "坐姿人物上身圖，胸前色繪。"
+        }
+      ]
+    },
+    {
+      "image": 51,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p51",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00051_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "51"
+        ]
+      },
+      "file": "51.jpg",
+      "sha256": "727b1158dfe89352241fe2dc1bad9ef719010ec9a3313a10fda55bf79a341947",
+      "bytes": 291744,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-unlabelled",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f51-r-unlabelled-01",
+          "side": "R",
+          "kind": "unlabelled",
+          "bbox": [
+            974,
+            110,
+            1650,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "確認該圖幅無可辨圖題。",
+          "figure": "f51-r-figure-01"
+        },
+        {
+          "id": "f51-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            974,
+            395,
+            1650,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "坐姿人物上身圖，頸部有傷的描繪。"
+        },
+        {
+          "id": "f51-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            836,
+            725,
+            956,
+            1145
+          ],
+          "lines": [
+            "安保對馬之醫",
+            "松本煉次郎□圖"
+          ],
+          "note_zh": "兩直欄依右先左後。保、煉與□處筆形待核。",
+          "figure": "f51-l-figure-01"
+        },
+        {
+          "id": "f51-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            271,
+            137,
+            975,
+            1228
+          ],
+          "lines": [],
+          "note_zh": "立姿人物，衣裳、傷痕與器物為同面一圖。"
+        }
+      ]
+    },
+    {
+      "image": 52,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p52",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00052_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "52"
+        ]
+      },
+      "file": "52.jpg",
+      "sha256": "414988b1451a7fc78564bf896dd218280fd2228aa220b4d2f0fb8c811e24b8a5",
+      "bytes": 242600,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "illustrated-captioned"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f52-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1454,
+            126,
+            1605,
+            259
+          ],
+          "lines": [
+            "脫肛"
+          ],
+          "note_zh": "兩字呈斜列。",
+          "figure": "f52-r-figure-01"
+        },
+        {
+          "id": "f52-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            974,
+            257,
+            1656,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "有衣帶及著色形體的身體局部圖。"
+        },
+        {
+          "id": "f52-l-caption-01",
+          "side": "L",
+          "kind": "caption",
+          "bbox": [
+            895,
+            358,
+            955,
+            489
+          ],
+          "lines": [
+            "金創"
+          ],
+          "figure": "f52-l-figure-01"
+        },
+        {
+          "id": "f52-l-figure-01",
+          "side": "L",
+          "kind": "figure",
+          "bbox": [
+            276,
+            482,
+            972,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "側面人物上身像。"
+        }
+      ]
+    },
+    {
+      "image": 53,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p53",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00053_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "53"
+        ]
+      },
+      "file": "53.jpg",
+      "sha256": "0ae4a682d96f0ba9cfb8d955df46be5ae8d5fb324ba34425b2fb4c8a74ad7baa",
+      "bytes": 199172,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "illustrated-leaves",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "R": "illustrated-captioned",
+        "L": "blank"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f53-r-caption-01",
+          "side": "R",
+          "kind": "caption",
+          "bbox": [
+            1558,
+            286,
+            1645,
+            402
+          ],
+          "lines": [
+            "其二"
+          ],
+          "figure": "f53-r-figure-01"
+        },
+        {
+          "id": "f53-r-figure-01",
+          "side": "R",
+          "kind": "figure",
+          "bbox": [
+            974,
+            461,
+            1655,
+            1229
+          ],
+          "lines": [],
+          "note_zh": "側轉人物上身，見線狀及縫線般圖記，原題未解釋其意。"
+        },
+        {
+          "id": "f53-l-blank-01",
+          "side": "L",
+          "kind": "blank",
+          "bbox": [
+            275,
+            116,
+            973,
+            1227
+          ],
+          "lines": [],
+          "note_zh": "末葉左幅留白。"
+        }
+      ]
+    },
+    {
+      "image": 54,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p54",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005563%2FRB00005563_00054_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "54"
+        ]
+      },
+      "file": "54.jpg",
+      "sha256": "842edfa95b2c5f34c685612851f2b6da72b19078efc46ecc56470b87266f4058",
+      "bytes": 178767,
+      "native_width": 5616,
+      "native_height": 3744,
+      "state": "transcribed-or-indexed",
+      "content_role": "binding-and-paratext",
+      "delivered_width": 2000,
+      "delivered_height": 1333,
+      "side_status": {
+        "F": "binding-no-readable-text"
+      },
+      "facsimile_regions": [
+        {
+          "id": "f54-f-cover-01",
+          "side": "F",
+          "kind": "cover",
+          "bbox": [
+            609,
+            93,
+            1378,
+            1199
+          ],
+          "lines": [],
+          "note_zh": "橙色封底，未見可辨題字。"
+        }
+      ]
+    }
+  ]
+}
