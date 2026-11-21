@@ -4,11 +4,11 @@
 
 Yōka zuroku, titled 瘍科方之內 in the manuscript, is a hand-painted surgical atlas in Kyoto University Library’s Fujikawa Collection. Its drawings show individual presentations under historical names including 骨瘤, 肉瘤 and 火傷. Related views are sometimes numbered, and one figure includes an 1855 case inscription. The author and date of compilation are unknown. The collection supports research on Japanese surgical illustration and historical clinical terminology.
 
-## V0.1.0
+## V0.2.0
 
-覆蓋京都大學所藏全54幅影像；圖冊自第05幅左至第53幅右，含96面圖及相應圖題、中日文旁記、無題圖、館記、封套和空葉。提供TXT、JSON及TEI XML。AI輔助初錄，待定字附原圖區域。未經人類全文雙校或專家審定。
+覆蓋京都大學所藏全54幅影像；圖冊自第05幅左至第53幅右，含96面圖及相應圖題、中日文旁記、無題圖、館記、封套和空葉。提供TXT、JSON及TEI XML。比對獨立原圖讀法後回圖裁定，採用 13 筆訂正，留存疑讀定位。
 
-Indexes all 54 library scans. The illustrated leaves run from scan 5 left through scan 53 right. The TXT, JSON, and TEI XML link 96 illustrated faces, captions, Japanese glosses, collection marks, covers and blanks to their source images. AI-assisted initial transcription with image references and marked uncertain readings. No full human collation or expert review was performed.
+Indexes all 54 library scans. The illustrated leaves run from scan 5 left through scan 53 right. The TXT, JSON, and TEI XML link 96 illustrated faces, captions, Japanese glosses, collection marks, covers and blanks to their source images. An independent image reading was compared with the first transcription. Source-image adjudication adopted 13 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

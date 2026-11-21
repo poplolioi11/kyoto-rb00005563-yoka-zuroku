@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -583,8 +583,8 @@
           </div>
           <div n="L" type="page-face" subtype="illustrated-captioned">
             <ab type="source-feature" subtype="caption" facs="#f07-l-caption-01" corresp="#f07-l-figure-01">
-              <seg type="diplomatic-text">肩□</seg>
-              <note type="editorial">次字似凡或几；底本形保留待裁。</note>
+              <seg type="diplomatic-text">肩凡</seg>
+              <note type="editorial">次字有兩短點及上折右鉤，筆勢較近凡；保留几為候。</note>
             </ab>
             <figure facs="#f07-l-figure-01">
               <figDesc>背面上身像。</figDesc>
@@ -662,8 +662,8 @@
           </div>
           <div n="L" type="page-face" subtype="illustrated-captioned">
             <ab type="source-feature" subtype="caption" facs="#f11-l-caption-01" corresp="#f11-l-figure-01">
-              <seg type="diplomatic-text">支馬疳</seg>
-              <note type="editorial">首字草寫形近支，慣用名稱有走馬疳；末字待覆。</note>
+              <seg type="diplomatic-text">走馬疳</seg>
+              <note type="editorial">首字寫士形上部，末筆向右作行腳，近草走；第三字框內兩短橫接豎，暫取疳。整詞仍附疑讀。</note>
             </ab>
             <figure facs="#f11-l-figure-01">
               <figDesc>正面頭胸像。</figDesc>
@@ -822,7 +822,8 @@
           </div>
           <div n="L" type="page-face" subtype="illustrated-captioned">
             <ab type="source-feature" subtype="caption" facs="#f19-l-caption-01" corresp="#f19-l-figure-01">
-              <seg type="diplomatic-text">陰門反花</seg>
+              <seg type="diplomatic-text">陰門又花</seg>
+              <note type="editorial">正文第三字只有橫撇與捺交互相接，無反的上撇和分下直撇。</note>
             </ab>
             <figure facs="#f19-l-figure-01">
               <figDesc>正面蹲坐全身圖。</figDesc>
@@ -833,7 +834,8 @@
         <div n="f20" type="scan">
           <div n="R" type="page-face" subtype="illustrated-captioned">
             <ab type="source-feature" subtype="caption" facs="#f20-r-caption-01" corresp="#f20-r-figure-01">
-              <seg type="diplomatic-text">肛門反花</seg>
+              <seg type="diplomatic-text">肛門又花</seg>
+              <note type="editorial">右葉第三字只見兩主筆，上部無可分的一個撇畫，與f19L同法。</note>
             </ab>
             <figure facs="#f20-r-figure-01">
               <figDesc>下腹部局部圖。</figDesc>
@@ -938,7 +940,8 @@
           </div>
           <div n="L" type="page-face" subtype="illustrated-captioned">
             <ab type="source-feature" subtype="caption" facs="#f25-l-caption-01" corresp="#f25-l-figure-01">
-              <seg type="diplomatic-text">血痣反花</seg>
+              <seg type="diplomatic-text">血痣又花</seg>
+              <note type="editorial">圖題第三字的橫撇及捺簡潔，無另外獨立首撇。</note>
             </ab>
             <figure facs="#f25-l-figure-01">
               <figDesc>側背坐姿人物全身圖。</figDesc>
@@ -1048,8 +1051,8 @@
         <div n="f31" type="scan">
           <div n="R" type="page-face" subtype="illustrated-captioned">
             <ab type="source-feature" subtype="caption" facs="#f31-r-caption-01" corresp="#f31-r-figure-01">
-              <seg type="diplomatic-text">其三<lb />月形八百目</seg>
-              <note type="editorial">題字順紙緣側向寫，右列先；月疑同，末形亦可能日。</note>
+              <seg type="diplomatic-text">其三<lb />□形八百目</seg>
+              <note type="editorial">側題轉90°後第二欄可見形前再一窄框字並有中橫，月與目難裁，首記保留缺字方框。形的左下清楚可見人形折筆，未見秤左禾的完整四散結構。</note>
             </ab>
             <figure facs="#f31-r-figure-01">
               <figDesc>容器與著色形體圖。</figDesc>
@@ -1115,8 +1118,8 @@
               <note type="editorial">次字見疒與似歷下部。</note>
             </ab>
             <ab type="source-feature" subtype="note" facs="#f34-r-note-01" corresp="#f34-r-figure-01">
-              <seg type="diplomatic-text">癧サリ</seg>
-              <note type="editorial">與上條癧形近同；片假末形待核。</note>
+              <seg type="diplomatic-text">癧□</seg>
+              <note type="editorial">首見同面疒下疊木及止狀筆架；右下有數筆可能兩個小假名縮寫，字數未定，留□。</note>
             </ab>
             <figure facs="#f34-r-figure-01">
               <figDesc>側坐人物像。</figDesc>
@@ -1155,8 +1158,8 @@
         <div n="f36" type="scan">
           <div n="R" type="page-face" subtype="illustrated-captioned">
             <ab type="source-feature" subtype="caption" facs="#f36-r-caption-01" corresp="#f36-r-figure-01">
-              <seg type="diplomatic-text">上齶疱</seg>
-              <note type="editorial">末字似疒包，也可能疣，未逕改。</note>
+              <seg type="diplomatic-text">上齶□</seg>
+              <note type="editorial">末字疒下類似f38R和f48L；三處底筆均長，內部橫點筆太多而不易分形，不作定讀。</note>
             </ab>
             <figure facs="#f36-r-figure-01">
               <figDesc>人物頭胸像與面部色繪。</figDesc>
@@ -1201,8 +1204,8 @@
         <div n="f38" type="scan">
           <div n="R" type="page-face" subtype="illustrated-captioned">
             <ab type="source-feature" subtype="caption" facs="#f38-r-caption-01" corresp="#f38-r-figure-01">
-              <seg type="diplomatic-text">疱</seg>
-              <note type="editorial">亦近疣，與f48L相參但不類推。</note>
+              <seg type="diplomatic-text">□</seg>
+              <note type="editorial">字內上似四筆近辛形、下大鉤；和f36R及f48L同形族但仍不能認定字。</note>
             </ab>
             <figure facs="#f38-r-figure-01">
               <figDesc>從背側繪製的人物上身圖。</figDesc>
@@ -1318,8 +1321,8 @@
               <seg type="diplomatic-text">六指</seg>
             </ab>
             <ab type="source-feature" subtype="caption" facs="#f43-l-caption-02" corresp="#f43-l-figure-01">
-              <seg type="diplomatic-text">拇指</seg>
-              <note type="editorial">首字似拇或按，初擬拇；下圖旁獨立圖題。</note>
+              <seg type="diplomatic-text">接指</seg>
+              <note type="editorial">首字左扌右側上立、底女，符合接；同一面另有六指，不互相替代。</note>
             </ab>
             <figure facs="#f43-l-figure-01">
               <figDesc>兩組手、腕與衣袖，同面一組。</figDesc>
@@ -1330,7 +1333,8 @@
         <div n="f44" type="scan">
           <div n="R" type="page-face" subtype="illustrated-captioned">
             <ab type="source-feature" subtype="caption" facs="#f44-r-caption-01" corresp="#f44-r-figure-01">
-              <seg type="diplomatic-text">缺唇</seg>
+              <seg type="diplomatic-text">鉄唇</seg>
+              <note type="editorial">首字左金旁可見，右上斜筆及兩橫、下人形捺較近失，不能依通行寫法改成缺。</note>
             </ab>
             <figure facs="#f44-r-figure-01">
               <figDesc>小兒側轉頭胸像。</figDesc>
@@ -1415,8 +1419,8 @@
           </div>
           <div n="L" type="page-face" subtype="illustrated-captioned">
             <ab type="source-feature" subtype="caption" facs="#f48-l-caption-01" corresp="#f48-l-figure-01">
-              <seg type="diplomatic-text">疱</seg>
-              <note type="editorial">末筆延至頁縫，亦近疣。</note>
+              <seg type="diplomatic-text">□</seg>
+              <note type="editorial">下部長折筆可定位，字裡兩列墨筆仍不能定；同f36R、f38R保留候讀。</note>
             </ab>
             <figure facs="#f48-l-figure-01">
               <figDesc>人物背面上身像，背部著色。</figDesc>
@@ -1474,8 +1478,8 @@
           </div>
           <div n="L" type="page-face" subtype="illustrated-captioned">
             <ab type="source-feature" subtype="caption" facs="#f51-l-caption-01" corresp="#f51-l-figure-01">
-              <seg type="diplomatic-text">安保對馬之醫<lb />松本煉次郎□圖</seg>
-              <note type="editorial">兩直欄依右先左後。保、煉與□處筆形待核。</note>
+              <seg type="diplomatic-text">□□對馬ノ傷<lb />松本□次郎□圖</seg>
+              <note type="editorial">兩欄的對馬後見ノ斜筆，末字左亻、右側昜形為傷。右首兩形、左欄第三與尾圖前小字差異大，留待後查。</note>
             </ab>
             <figure facs="#f51-l-figure-01">
               <figDesc>立姿人物，衣裳、傷痕與器物為同面一圖。</figDesc>

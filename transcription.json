@@ -25,7 +25,7 @@
     "txt_reader_statement": "全54幅來源影像依館方順序記錄，圖自第05幅左至第53幅右，共96面。雙葉依右、左序；方框□表示尚不能可靠判讀，斜線／分隔原件不同欄位。逐圖題附定位，另記無題圖、旁釋、封套、館記與留白。",
     "tei_editorial_statement": "每幅對應館方 IIIF canvas，區域座標採寬2000像素的館方下載JPEG，圖題、小字、朱印、刪痕、圖幅與館錄資料分層。圖幅位置為人工選取的區域，圖檔由館方依連結供讀。",
     "record_id": "RB00005563",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005563/manifest.json",
     "manifest_sha256": "6b9beb4017541330b237cb47371c82d40bcd4c01c293055470c40b0005c1b6ea",
     "catalogue_canvas_count": 54,
@@ -83,9 +83,9 @@
     "main_scope_first_face": "f05L",
     "main_scope_last_face": "f53R",
     "coordinate_system": "top-left x,y zero-based delivered JPEG pixels; bbox upper-left and exclusive lower-right",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "瘍科方之內〔瘍科圖錄〕（一圖署1855年，京都大學 ヨ/144） / Yōka zuroku [Illustrated surgical atlas]: Illustration Caption Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -667,9 +667,10 @@
             345
           ],
           "lines": [
-            "肩□"
+            "肩凡"
           ],
           "note_zh": "次字似凡或几；底本形保留待裁。",
+          "review_note_zh": "次字有兩短點及上折右鉤，筆勢較近凡；保留几為候。",
           "figure": "f07-l-figure-01"
         },
         {
@@ -994,9 +995,10 @@
             419
           ],
           "lines": [
-            "支馬疳"
+            "走馬疳"
           ],
           "note_zh": "首字草寫形近支，慣用名稱有走馬疳；末字待覆。",
+          "review_note_zh": "首字寫士形上部，末筆向右作行腳，近草走；第三字框內兩短橫接豎，暫取疳。整詞仍附疑讀。",
           "figure": "f11-l-figure-01"
         },
         {
@@ -1665,8 +1667,9 @@
             373
           ],
           "lines": [
-            "陰門反花"
+            "陰門又花"
           ],
+          "review_note_zh": "正文第三字只有橫撇與捺交互相接，無反的上撇和分下直撇。",
           "figure": "f19-l-figure-01"
         },
         {
@@ -1718,8 +1721,9 @@
             386
           ],
           "lines": [
-            "肛門反花"
+            "肛門又花"
           ],
+          "review_note_zh": "右葉第三字只見兩主筆，上部無可分的一個撇畫，與f19L同法。",
           "figure": "f20-r-figure-01"
         },
         {
@@ -2153,8 +2157,9 @@
             406
           ],
           "lines": [
-            "血痣反花"
+            "血痣又花"
           ],
+          "review_note_zh": "圖題第三字的橫撇及捺簡潔，無另外獨立首撇。",
           "figure": "f25-l-figure-01"
         },
         {
@@ -2616,9 +2621,10 @@
           ],
           "lines": [
             "其三",
-            "月形八百目"
+            "□形八百目"
           ],
           "note_zh": "題字順紙緣側向寫，右列先；月疑同，末形亦可能日。",
+          "review_note_zh": "側題轉90°後第二欄可見形前再一窄框字並有中橫，月與目難裁，首記保留缺字方框。形的左下清楚可見人形折筆，未見秤左禾的完整四散結構。",
           "figure": "f31-r-figure-01"
         },
         {
@@ -2894,9 +2900,10 @@
             706
           ],
           "lines": [
-            "癧サリ"
+            "癧□"
           ],
           "note_zh": "與上條癧形近同；片假末形待核。",
+          "review_note_zh": "首見同面疒下疊木及止狀筆架；右下有數筆可能兩個小假名縮寫，字數未定，留□。",
           "figure": "f34-r-figure-01"
         },
         {
@@ -3058,9 +3065,10 @@
             432
           ],
           "lines": [
-            "上齶疱"
+            "上齶□"
           ],
           "note_zh": "末字似疒包，也可能疣，未逕改。",
+          "review_note_zh": "末字疒下類似f38R和f48L；三處底筆均長，內部橫點筆太多而不易分形，不作定讀。",
           "figure": "f36-r-figure-01"
         },
         {
@@ -3243,9 +3251,10 @@
             408
           ],
           "lines": [
-            "疱"
+            "□"
           ],
           "note_zh": "亦近疣，與f48L相參但不類推。",
+          "review_note_zh": "字內上似四筆近辛形、下大鉤；和f36R及f48L同形族但仍不能認定字。",
           "figure": "f38-r-figure-01"
         },
         {
@@ -3726,9 +3735,10 @@
             1128
           ],
           "lines": [
-            "拇指"
+            "接指"
           ],
           "note_zh": "首字似拇或按，初擬拇；下圖旁獨立圖題。",
+          "review_note_zh": "首字左扌右側上立、底女，符合接；同一面另有六指，不互相替代。",
           "figure": "f43-l-figure-01"
         },
         {
@@ -3780,8 +3790,9 @@
             439
           ],
           "lines": [
-            "缺唇"
+            "鉄唇"
           ],
+          "review_note_zh": "首字左金旁可見，右上斜筆及兩橫、下人形捺較近失，不能依通行寫法改成缺。",
           "figure": "f44-r-figure-01"
         },
         {
@@ -4132,9 +4143,10 @@
             478
           ],
           "lines": [
-            "疱"
+            "□"
           ],
           "note_zh": "末筆延至頁縫，亦近疣。",
+          "review_note_zh": "下部長折筆可定位，字裡兩列墨筆仍不能定；同f36R、f38R保留候讀。",
           "figure": "f48-l-figure-01"
         },
         {
@@ -4374,10 +4386,11 @@
             1145
           ],
           "lines": [
-            "安保對馬之醫",
-            "松本煉次郎□圖"
+            "□□對馬ノ傷",
+            "松本□次郎□圖"
           ],
           "note_zh": "兩直欄依右先左後。保、煉與□處筆形待核。",
+          "review_note_zh": "兩欄的對馬後見ノ斜筆，末字左亻、右側昜形為傷。右首兩形、左欄第三與尾圖前小字差異大，留待後查。",
           "figure": "f51-l-figure-01"
         },
         {

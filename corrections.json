@@ -1,0 +1,904 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 13,
+  "changes": [
+    {
+      "image": 7,
+      "side": "L",
+      "column": "f07-l-caption-01",
+      "kind": "caption",
+      "op": "readback-correction",
+      "before": "肩□",
+      "after": "肩凡",
+      "reason": "次字有兩短點及上折右鉤，筆勢較近凡；保留几為候。",
+      "source_bbox": [
+        858,
+        241,
+        921,
+        345
+      ],
+      "source_image_sha256": "eac2f36cabb05423a45b5f3d8f6aafe4359d7e66ac4c49754a9cc949459766ad",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p7"
+    },
+    {
+      "image": 11,
+      "side": "L",
+      "column": "f11-l-caption-01",
+      "kind": "caption",
+      "op": "readback-correction",
+      "before": "支馬疳",
+      "after": "走馬疳",
+      "reason": "首字寫士形上部，末筆向右作行腳，近草走；第三字框內兩短橫接豎，暫取疳。整詞仍附疑讀。",
+      "source_bbox": [
+        879,
+        244,
+        936,
+        419
+      ],
+      "source_image_sha256": "3f2a516d3abd6132314b7372548c31ef7d81f6562db9f3573b2ba1e040edc24f",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p11"
+    },
+    {
+      "image": 19,
+      "side": "L",
+      "column": "f19-l-caption-01",
+      "kind": "caption",
+      "op": "readback-correction",
+      "before": "陰門反花",
+      "after": "陰門又花",
+      "reason": "正文第三字只有橫撇與捺交互相接，無反的上撇和分下直撇。",
+      "source_bbox": [
+        872,
+        221,
+        933,
+        373
+      ],
+      "source_image_sha256": "97abc14c114f86ae96e6bb183d03ef871a83ecd7a75138e79f89e36b5d34c588",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p19"
+    },
+    {
+      "image": 20,
+      "side": "R",
+      "column": "f20-r-caption-01",
+      "kind": "caption",
+      "op": "readback-correction",
+      "before": "肛門反花",
+      "after": "肛門又花",
+      "reason": "右葉第三字只見兩主筆，上部無可分的一個撇畫，與f19L同法。",
+      "source_bbox": [
+        1526,
+        217,
+        1597,
+        386
+      ],
+      "source_image_sha256": "9f1d0636067092cdc308e91130f3a3f3f9b0455bdaeda707a7b9eca987574285",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p20"
+    },
+    {
+      "image": 25,
+      "side": "L",
+      "column": "f25-l-caption-01",
+      "kind": "caption",
+      "op": "readback-correction",
+      "before": "血痣反花",
+      "after": "血痣又花",
+      "reason": "圖題第三字的橫撇及捺簡潔，無另外獨立首撇。",
+      "source_bbox": [
+        830,
+        228,
+        925,
+        406
+      ],
+      "source_image_sha256": "8702e210cd3cda21b3190ddaf28537c211224946d1cb6e358e72dcbdd9d750a3",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p25"
+    },
+    {
+      "image": 31,
+      "side": "R",
+      "column": "f31-r-caption-01",
+      "kind": "caption",
+      "op": "readback-correction",
+      "before": "其三／月形八百目",
+      "after": "其三／□形八百目",
+      "reason": "側題轉90°後第二欄可見形前再一窄框字並有中橫，月與目難裁，首記保留缺字方框。形的左下清楚可見人形折筆，未見秤左禾的完整四散結構。",
+      "source_bbox": [
+        1110,
+        135,
+        1320,
+        286
+      ],
+      "source_image_sha256": "9051f4f2046551dd12c1368b1f295c8d3d36cf22e0ab6c3916c6421a2203c7ce",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p31"
+    },
+    {
+      "image": 34,
+      "side": "R",
+      "column": "f34-r-note-01",
+      "kind": "note",
+      "op": "readback-correction",
+      "before": "癧サリ",
+      "after": "癧□",
+      "reason": "首見同面疒下疊木及止狀筆架；右下有數筆可能兩個小假名縮寫，字數未定，留□。",
+      "source_bbox": [
+        1522,
+        562,
+        1625,
+        706
+      ],
+      "source_image_sha256": "1f96ab7d8f3a838034df4278e3bde52ccc68d46a6845bed8ef8607e4379ae4f6",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p34"
+    },
+    {
+      "image": 36,
+      "side": "R",
+      "column": "f36-r-caption-01",
+      "kind": "caption",
+      "op": "readback-correction",
+      "before": "上齶疱",
+      "after": "上齶□",
+      "reason": "末字疒下類似f38R和f48L；三處底筆均長，內部橫點筆太多而不易分形，不作定讀。",
+      "source_bbox": [
+        1494,
+        224,
+        1597,
+        432
+      ],
+      "source_image_sha256": "f5c9b6bab6ffac34e1ab64c1dd721a7762dd13c8ff0b29ab031866be345f8d37",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p36"
+    },
+    {
+      "image": 38,
+      "side": "R",
+      "column": "f38-r-caption-01",
+      "kind": "caption",
+      "op": "readback-correction",
+      "before": "疱",
+      "after": "□",
+      "reason": "字內上似四筆近辛形、下大鉤；和f36R及f48L同形族但仍不能認定字。",
+      "source_bbox": [
+        1519,
+        315,
+        1597,
+        408
+      ],
+      "source_image_sha256": "39dc473d06c8ecd6b012bbfd2ae8ae688a6929b8d25f4559aa8849c0d7a9daa4",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p38"
+    },
+    {
+      "image": 43,
+      "side": "L",
+      "column": "f43-l-caption-02",
+      "kind": "caption",
+      "op": "readback-correction",
+      "before": "拇指",
+      "after": "接指",
+      "reason": "首字左扌右側上立、底女，符合接；同一面另有六指，不互相替代。",
+      "source_bbox": [
+        545,
+        1014,
+        632,
+        1128
+      ],
+      "source_image_sha256": "9aa41c54e88b7a8b7633f366abe8a852128eb164ae96063c32501c8a08a2abce",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p43"
+    },
+    {
+      "image": 44,
+      "side": "R",
+      "column": "f44-r-caption-01",
+      "kind": "caption",
+      "op": "readback-correction",
+      "before": "缺唇",
+      "after": "鉄唇",
+      "reason": "首字左金旁可見，右上斜筆及兩橫、下人形捺較近失，不能依通行寫法改成缺。",
+      "source_bbox": [
+        1515,
+        292,
+        1608,
+        439
+      ],
+      "source_image_sha256": "04f7b4538b3e7f3ab1a36ebed876d2cffffdae064522ef7a8111872ea42afee4",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p44"
+    },
+    {
+      "image": 48,
+      "side": "L",
+      "column": "f48-l-caption-01",
+      "kind": "caption",
+      "op": "readback-correction",
+      "before": "疱",
+      "after": "□",
+      "reason": "下部長折筆可定位，字裡兩列墨筆仍不能定；同f36R、f38R保留候讀。",
+      "source_bbox": [
+        886,
+        365,
+        964,
+        478
+      ],
+      "source_image_sha256": "57bb1da8f380cd2984e8806c5c42f150da3e0949cdc6a3390cac1857d253bfd8",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p48"
+    },
+    {
+      "image": 51,
+      "side": "L",
+      "column": "f51-l-caption-01",
+      "kind": "caption",
+      "op": "readback-correction",
+      "before": "安保對馬之醫／松本煉次郎□圖",
+      "after": "□□對馬ノ傷／松本□次郎□圖",
+      "reason": "兩欄的對馬後見ノ斜筆，末字左亻、右側昜形為傷。右首兩形、左欄第三與尾圖前小字差異大，留待後查。",
+      "source_bbox": [
+        836,
+        725,
+        956,
+        1145
+      ],
+      "source_image_sha256": "727b1158dfe89352241fe2dc1bad9ef719010ec9a3313a10fda55bf79a341947",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p51"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "F",
+      "column": "f01-f-title-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p1",
+      "status": "保留原錄"
+    },
+    {
+      "image": 2,
+      "side": "L",
+      "column": "f02-l-title-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p2",
+      "status": "保留原錄"
+    },
+    {
+      "image": 2,
+      "side": "S",
+      "column": "f02-s-title-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p2",
+      "status": "保留原錄"
+    },
+    {
+      "image": 3,
+      "side": "F",
+      "column": "f03-f-library-label-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p3",
+      "status": "保留原錄"
+    },
+    {
+      "image": 4,
+      "side": "R",
+      "column": "f04-r-library-label-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p4",
+      "status": "保留原錄"
+    },
+    {
+      "image": 4,
+      "side": "L",
+      "column": "f04-l-title-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p4",
+      "status": "保留原錄"
+    },
+    {
+      "image": 5,
+      "side": "R",
+      "column": "f05-r-marginalia-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p5",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 5,
+      "side": "L",
+      "column": "f05-l-seal-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p5",
+      "status": "保留原錄"
+    },
+    {
+      "image": 10,
+      "side": "R",
+      "column": "f10-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p10",
+      "status": "保留原錄"
+    },
+    {
+      "image": 13,
+      "side": "R",
+      "column": "f13-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p13",
+      "status": "保留原錄"
+    },
+    {
+      "image": 17,
+      "side": "L",
+      "column": "f17-l-gloss-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p17",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 22,
+      "side": "L",
+      "column": "f22-l-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p22",
+      "status": "保留原錄"
+    },
+    {
+      "image": 29,
+      "side": "R",
+      "column": "f29-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p29",
+      "status": "保留原錄"
+    },
+    {
+      "image": 32,
+      "side": "R",
+      "column": "f32-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p32",
+      "status": "保留原錄"
+    },
+    {
+      "image": 33,
+      "side": "R",
+      "column": "f33-r-note-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p33",
+      "status": "保留原錄"
+    },
+    {
+      "image": 33,
+      "side": "L",
+      "column": "f33-l-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p33",
+      "status": "保留原錄"
+    },
+    {
+      "image": 34,
+      "side": "R",
+      "column": "f34-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p34",
+      "status": "保留原錄"
+    },
+    {
+      "image": 37,
+      "side": "R",
+      "column": "f37-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p37",
+      "status": "保留原錄"
+    },
+    {
+      "image": 39,
+      "side": "L",
+      "column": "f39-l-gloss-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p39",
+      "status": "保留原錄"
+    },
+    {
+      "image": 40,
+      "side": "L",
+      "column": "f40-l-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p40",
+      "status": "保留原錄"
+    },
+    {
+      "image": 42,
+      "side": "L",
+      "column": "f42-l-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p42",
+      "status": "保留原錄"
+    },
+    {
+      "image": 45,
+      "side": "L",
+      "column": "f45-l-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p45",
+      "status": "保留原錄"
+    },
+    {
+      "image": 46,
+      "side": "R",
+      "column": "f46-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p46",
+      "status": "保留原錄"
+    },
+    {
+      "image": 47,
+      "side": "R",
+      "column": "f47-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p47",
+      "status": "保留原錄"
+    },
+    {
+      "image": 49,
+      "side": "L",
+      "column": "f49-l-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p49",
+      "status": "保留原錄"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 1,
+      "side": "F",
+      "column": "f01-f-title-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p1",
+      "source_bbox": [
+        635,
+        130,
+        790,
+        692
+      ],
+      "source_image_sha256": "5240013e4614dce964d76102dd6a8b03d05ef2377caf43041981761bd74e73ad",
+      "status": "保留原錄",
+      "before": "瘍科方之內",
+      "after": "瘍科方之內",
+      "candidates": [
+        "內／内"
+      ],
+      "reason": "外函末字寫從入的簡形，內題可與內互證；錄字使用通用字形，另列日文檢索異體。"
+    },
+    {
+      "image": 2,
+      "side": "L",
+      "column": "f02-l-title-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p2",
+      "source_bbox": [
+        214,
+        120,
+        330,
+        590
+      ],
+      "source_image_sha256": "93f851e10e11ea0d6fbbafe44fa22a2e63a38afe5de72572254e8167c186a92d",
+      "status": "保留原錄",
+      "before": "瘍科方之內",
+      "after": "瘍科方之內",
+      "candidates": [
+        "內／内"
+      ],
+      "reason": "展開照重見外函正題，右面無另題，中央函脊分錄。"
+    },
+    {
+      "image": 2,
+      "side": "S",
+      "column": "f02-s-title-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p2",
+      "source_bbox": [
+        932,
+        135,
+        990,
+        555
+      ],
+      "source_image_sha256": "93f851e10e11ea0d6fbbafe44fa22a2e63a38afe5de72572254e8167c186a92d",
+      "status": "保留原錄",
+      "before": "瘍科方之內",
+      "after": "瘍科方之內",
+      "candidates": [
+        "內／内"
+      ],
+      "reason": "最後圖記為全，初錄已在同函脊的另一個版面區域分錄。"
+    },
+    {
+      "image": 3,
+      "side": "F",
+      "column": "f03-f-library-label-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p3",
+      "source_bbox": [
+        1205,
+        148,
+        1286,
+        255
+      ],
+      "source_image_sha256": "2c4628227568a37591279aa9380bb07ddb13e2db3faf321856ea5b128410918a",
+      "status": "保留原錄",
+      "before": "富士川本／ヨ／144",
+      "after": "富士川本／ヨ／144",
+      "candidates": [],
+      "reason": "數字上下分列；板式與f04R相同，上排可見富士川本。"
+    },
+    {
+      "image": 4,
+      "side": "R",
+      "column": "f04-r-library-label-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p4",
+      "source_bbox": [
+        1602,
+        145,
+        1680,
+        265
+      ],
+      "source_image_sha256": "a8b419dc83262011c9575a0b66154447f4b4399f02a1743fd2e14805b8b25ef8",
+      "status": "保留原錄",
+      "before": "富士川本／ヨ／144",
+      "after": "富士川本／ヨ／144",
+      "candidates": [],
+      "reason": "小籤近端頂排有富士川本，ヨ與144另列。"
+    },
+    {
+      "image": 4,
+      "side": "L",
+      "column": "f04-l-title-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p4",
+      "source_bbox": [
+        405,
+        320,
+        545,
+        1095
+      ],
+      "source_image_sha256": "a8b419dc83262011c9575a0b66154447f4b4399f02a1743fd2e14805b8b25ef8",
+      "status": "保留原錄",
+      "before": "瘍科方之內",
+      "after": "瘍科方之內",
+      "candidates": [
+        "內／内"
+      ],
+      "reason": "內題末字為交互入筆，封函字形略小。"
+    },
+    {
+      "image": 5,
+      "side": "R",
+      "column": "f05-r-marginalia-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p5",
+      "source_bbox": [
+        1595,
+        940,
+        1670,
+        1208
+      ],
+      "source_image_sha256": "209a9e52c6941b551406667f5fde54a13b01d882d3fc96ae2898ee41a8a5eef8",
+      "status": "保留疑讀",
+      "before": "五七一／□",
+      "after": "五七一／□",
+      "candidates": [
+        "五七一"
+      ],
+      "reason": "右下五七一兩讀一致；更下細筆近草書及鬆散點筆，目前不可認為同組數字。"
+    },
+    {
+      "image": 5,
+      "side": "L",
+      "column": "f05-l-seal-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p5",
+      "source_bbox": [
+        620,
+        150,
+        832,
+        363
+      ],
+      "source_image_sha256": "209a9e52c6941b551406667f5fde54a13b01d882d3fc96ae2898ee41a8a5eef8",
+      "status": "保留原錄",
+      "before": "京都帝國大學圖書之印",
+      "after": "京都帝國大學圖書之印",
+      "candidates": [],
+      "reason": "紅方印三直列可辨京都、帝國大學、圖書之印。卵印依不同位置留未判。"
+    },
+    {
+      "image": 10,
+      "side": "R",
+      "column": "f10-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p10",
+      "source_bbox": [
+        1570,
+        255,
+        1653,
+        366
+      ],
+      "source_image_sha256": "81ae351d41e84dfb7e02a44384b3cea1424f0deefe8fd83fd7b2ee723f646900",
+      "status": "保留原錄",
+      "before": "舌疽",
+      "after": "舌疽",
+      "candidates": [
+        "舌疽／古疽"
+      ],
+      "reason": "右側另有一細竪筆；舌第一撇墨色較淡。末字下部近且；同冊f31L有舌疽。"
+    },
+    {
+      "image": 13,
+      "side": "R",
+      "column": "f13-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p13",
+      "source_bbox": [
+        1504,
+        205,
+        1640,
+        426
+      ],
+      "source_image_sha256": "eac62653afa505842e0432217b17a33908709790e83a1dd8ff9ff7194380cdc6",
+      "status": "保留原錄",
+      "before": "虫胞頭皮肉間／生於白虫",
+      "after": "虫胞頭皮肉間／生於白虫",
+      "candidates": [],
+      "reason": "右欄頭皮肉間與左欄生於白虫皆一致，白虫與皮肉旁見分組括線。"
+    },
+    {
+      "image": 17,
+      "side": "L",
+      "column": "f17-l-gloss-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p17",
+      "source_bbox": [
+        881,
+        353,
+        931,
+        449
+      ],
+      "source_image_sha256": "69cba42257e878f6ad6672c3e11787e6f3a1f68882390e5aa04d35c4e2a365da",
+      "status": "保留疑讀",
+      "before": "マイタレ／ホヽナリ",
+      "after": "マイタレ／ホヽナリ",
+      "candidates": [
+        "マイタレ／ホイタレ",
+        "ホヽナリ／ナリ"
+      ],
+      "reason": "右欄首小字可見偏右折筆似マ，左列有重文樣斜畫，兩讀分欄不同；維持雙列初錄，留下候讀。"
+    },
+    {
+      "image": 22,
+      "side": "L",
+      "column": "f22-l-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p22",
+      "source_bbox": [
+        863,
+        220,
+        943,
+        343
+      ],
+      "source_image_sha256": "9fd142dd474ef450f333c363b9fe69cc6f539fa1d6b63d8a33ee249717520fe1",
+      "status": "保留原錄",
+      "before": "骨瘤",
+      "after": "骨瘤",
+      "candidates": [],
+      "reason": "骨字左上偏側有孤立斜筆，與圖題墨色偏淡，不併作一字。"
+    },
+    {
+      "image": 29,
+      "side": "R",
+      "column": "f29-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p29",
+      "source_bbox": [
+        1498,
+        334,
+        1569,
+        544
+      ],
+      "source_image_sha256": "0e856e13142e8ff72bbd1f0b05cde0415f972183ddda4873d49c55afad4a737e",
+      "status": "保留原錄",
+      "before": "肉瘤反花",
+      "after": "肉瘤反花",
+      "candidates": [
+        "反／又"
+      ],
+      "reason": "第三字上面有獨立向左的平撇，其下另寫較長直撇，與f19L兩畫寫法不同，保留反。"
+    },
+    {
+      "image": 32,
+      "side": "R",
+      "column": "f32-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p32",
+      "source_bbox": [
+        1510,
+        164,
+        1595,
+        296
+      ],
+      "source_image_sha256": "4c461e9edd65907d9ca34559d23d3490bd7277ec362e36402f62ff0a804509ad",
+      "status": "保留原錄",
+      "before": "乳癭",
+      "after": "乳癭",
+      "candidates": [
+        "乳癭／乳癧／乳癖"
+      ],
+      "reason": "末字上下見兩連環形與底女形，與f28L癭形較近，和f34R呈止之字不同。候讀列異議。"
+    },
+    {
+      "image": 33,
+      "side": "R",
+      "column": "f33-r-note-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p33",
+      "source_bbox": [
+        1528,
+        464,
+        1604,
+        632
+      ],
+      "source_image_sha256": "bda0d3fafab086cbaed6cc538a9e181de1ff452e14361f9a153a50c3a49f9523",
+      "status": "保留原錄",
+      "before": "三拾五目",
+      "after": "三拾五目",
+      "candidates": [
+        "目／日"
+      ],
+      "reason": "末字外框底鉤及內墨兩痕較合目。"
+    },
+    {
+      "image": 33,
+      "side": "L",
+      "column": "f33-l-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p33",
+      "source_bbox": [
+        883,
+        350,
+        965,
+        603
+      ],
+      "source_image_sha256": "bda0d3fafab086cbaed6cc538a9e181de1ff452e14361f9a153a50c3a49f9523",
+      "status": "保留原錄",
+      "before": "肉瘤反花",
+      "after": "肉瘤反花",
+      "candidates": [
+        "反／又"
+      ],
+      "reason": "第三字首筆長且獨立朝左，另接一撇與捺，暫留反。"
+    },
+    {
+      "image": 34,
+      "side": "R",
+      "column": "f34-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p34",
+      "source_bbox": [
+        1501,
+        214,
+        1627,
+        493
+      ],
+      "source_image_sha256": "1f96ab7d8f3a838034df4278e3bde52ccc68d46a6845bed8ef8607e4379ae4f6",
+      "status": "保留原錄",
+      "before": "乳癧為岩狀",
+      "after": "乳癧為岩狀",
+      "candidates": [
+        "癧／癖"
+      ],
+      "reason": "疒內呈左右棒筆及底部止形，與同面第二個字形筆架相合。"
+    },
+    {
+      "image": 37,
+      "side": "R",
+      "column": "f37-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p37",
+      "source_bbox": [
+        1336,
+        148,
+        1644,
+        425
+      ],
+      "source_image_sha256": "0117b4ceca345db6b1c538ad61784a17b14dbce53f6517dcd77f1f8c17de22d3",
+      "status": "保留原錄",
+      "before": "安政乙卯歳／八月十四日ニ／御手廻リ之／喧嘩ニ／金創",
+      "after": "安政乙卯歳／八月十四日ニ／御手廻リ之／喧嘩ニ／金創",
+      "candidates": [
+        "廻／迴／迫"
+      ],
+      "reason": "五欄序相同；第三欄第三字之內形近回，外連走之。年份為圖記。"
+    },
+    {
+      "image": 39,
+      "side": "L",
+      "column": "f39-l-gloss-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p39",
+      "source_bbox": [
+        877,
+        558,
+        942,
+        720
+      ],
+      "source_image_sha256": "5aeb8eec39bb8e9e50d66f33074ab43a7337cd9df5046ffcc770c5fce0cb46d7",
+      "status": "保留原錄",
+      "before": "俗ニ云／アナ／ナシ",
+      "after": "俗ニ云／アナ／ナシ",
+      "candidates": [],
+      "reason": "俗ニ云與右アナ、左ナシ的分讀一致。文字區域仍分層。"
+    },
+    {
+      "image": 40,
+      "side": "L",
+      "column": "f40-l-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p40",
+      "source_bbox": [
+        851,
+        336,
+        943,
+        505
+      ],
+      "source_image_sha256": "36ff4f06303668dcdeaedf69c0458a548f96e7ed3b4a98d9ae31056e45639a81",
+      "status": "保留原錄",
+      "before": "結毒反花",
+      "after": "結毒反花",
+      "candidates": [
+        "反／又"
+      ],
+      "reason": "第三字自有獨立斜短筆並階次下撇；保留原初反。"
+    },
+    {
+      "image": 42,
+      "side": "L",
+      "column": "f42-l-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p42",
+      "source_bbox": [
+        873,
+        283,
+        967,
+        509
+      ],
+      "source_image_sha256": "cef36dc2a0f73b96d2234330d49980268d557872d0cfe052309c0e6b9374d7ad",
+      "status": "保留原錄",
+      "before": "喧嘩金創",
+      "after": "喧嘩金創",
+      "candidates": [],
+      "reason": "第二字右部撇捺和多橫近嘩的草寫，兩次均採喧嘩金創。"
+    },
+    {
+      "image": 45,
+      "side": "L",
+      "column": "f45-l-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p45",
+      "source_bbox": [
+        898,
+        248,
+        973,
+        514
+      ],
+      "source_image_sha256": "9b676825f7d587a308b40ee0a62ad287d9e849b62b8745f37a518abfbad64939",
+      "status": "保留原錄",
+      "before": "肉瘤反花",
+      "after": "肉瘤反花",
+      "candidates": [
+        "反／又"
+      ],
+      "reason": "第三字上方左拉獨立一畫，和f19L等只有兩筆的又不同。"
+    },
+    {
+      "image": 46,
+      "side": "R",
+      "column": "f46-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p46",
+      "source_bbox": [
+        1550,
+        174,
+        1648,
+        619
+      ],
+      "source_image_sha256": "c7b47f35d24204de9addac040cdeeb9ba0df4dd100bb9ab0a813dd5bb0223c4b",
+      "status": "保留原錄",
+      "before": "腋下ヨリ乳下迄ノ失榮",
+      "after": "腋下ヨリ乳下迄ノ失榮",
+      "candidates": [],
+      "reason": "尾二字平撇與右捺可見失，下字上複點下木似榮。兩讀相符。"
+    },
+    {
+      "image": 47,
+      "side": "R",
+      "column": "f47-r-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p47",
+      "source_bbox": [
+        1535,
+        274,
+        1630,
+        521
+      ],
+      "source_image_sha256": "c0a7959883256450d3ae05dc18eedb44ae2097d04b8b01119dac1bb0c37ee21f",
+      "status": "保留原錄",
+      "before": "會陰菌毒",
+      "after": "會陰菌毒",
+      "candidates": [
+        "菌／苗"
+      ],
+      "reason": "第三字艹下有包圍，內細筆近禾，以菌為主讀。"
+    },
+    {
+      "image": 49,
+      "side": "L",
+      "column": "f49-l-caption-01",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p49",
+      "source_bbox": [
+        884,
+        155,
+        954,
+        405
+      ],
+      "source_image_sha256": "fab59e367760334e622fa9455b0f9cb21efe1332ae8967774019181d212e2934",
+      "status": "保留原錄",
+      "before": "包莖下疳",
+      "after": "包莖下疳",
+      "candidates": [
+        "疳／痒"
+      ],
+      "reason": "末字右部少筆，保留疳候讀，避免用詞義強作定讀。"
+    }
+  ]
+}

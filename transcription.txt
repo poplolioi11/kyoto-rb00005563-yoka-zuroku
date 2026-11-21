@@ -49,7 +49,7 @@ f06-l-figure-01	圖幅		正面頭胸像。
 https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p7
 f07-r-caption-01	原圖題	肉瘤	
 f07-r-figure-01	圖幅		正面頭胸像。
-f07-l-caption-01	原圖題	肩□	次字似凡或几；底本形保留待裁。
+f07-l-caption-01	原圖題	肩凡	次字有兩短點及上折右鉤，筆勢較近凡；保留几為候。
 f07-l-figure-01	圖幅		背面上身像。
 
 【影像 08】
@@ -77,7 +77,7 @@ f10-l-figure-01	圖幅		側轉頭胸像。
 https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p11
 f11-r-caption-01	原圖題	肉瘤	
 f11-r-figure-01	圖幅		側面頭胸像。
-f11-l-caption-01	原圖題	支馬疳	首字草寫形近支，慣用名稱有走馬疳；末字待覆。
+f11-l-caption-01	原圖題	走馬疳	首字寫士形上部，末筆向右作行腳，近草走；第三字框內兩短橫接豎，暫取疳。整詞仍附疑讀。
 f11-l-figure-01	圖幅		正面頭胸像。
 
 【影像 12】
@@ -134,12 +134,12 @@ f18-l-figure-01	圖幅		下腹部局部圖。
 https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p19
 f19-r-caption-01	原圖題	陰瘤	
 f19-r-figure-01	圖幅		下腹部局部圖。
-f19-l-caption-01	原圖題	陰門反花	
+f19-l-caption-01	原圖題	陰門又花	正文第三字只有橫撇與捺交互相接，無反的上撇和分下直撇。
 f19-l-figure-01	圖幅		正面蹲坐全身圖。
 
 【影像 20】
 https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p20
-f20-r-caption-01	原圖題	肛門反花	
+f20-r-caption-01	原圖題	肛門又花	右葉第三字只見兩主筆，上部無可分的一個撇畫，與f19L同法。
 f20-r-figure-01	圖幅		下腹部局部圖。
 f20-l-caption-01	原圖題	血痣	
 f20-l-figure-01	圖幅		下肢局部圖。
@@ -176,7 +176,7 @@ f24-l-figure-01	圖幅		坐姿人物全身圖。
 https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p25
 f25-r-caption-01	原圖題	其二	
 f25-r-figure-01	圖幅		側斜坐姿人物全身圖。
-f25-l-caption-01	原圖題	血痣反花	
+f25-l-caption-01	原圖題	血痣又花	圖題第三字的橫撇及捺簡潔，無另外獨立首撇。
 f25-l-figure-01	圖幅		側背坐姿人物全身圖。
 
 【影像 26】
@@ -216,7 +216,7 @@ f30-l-figure-01	圖幅		人體局部及著色形體圖。
 
 【影像 31】
 https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p31
-f31-r-caption-01	原圖題	其三／月形八百目	題字順紙緣側向寫，右列先；月疑同，末形亦可能日。
+f31-r-caption-01	原圖題	其三／□形八百目	側題轉90°後第二欄可見形前再一窄框字並有中橫，月與目難裁，首記保留缺字方框。形的左下清楚可見人形折筆，未見秤左禾的完整四散結構。
 f31-r-figure-01	圖幅		容器與著色形體圖。
 f31-l-caption-01	原圖題	東醫某／舌疽	右列署稱性短記，左列題名。
 f31-l-figure-01	圖幅		側面上身像，舌外伸。
@@ -239,7 +239,7 @@ f33-l-figure-01	圖幅		側坐人物像與胸前色繪。
 【影像 34】
 https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p34
 f34-r-caption-01	原圖題	乳癧為岩狀	次字見疒與似歷下部。
-f34-r-note-01	旁記	癧サリ	與上條癧形近同；片假末形待核。
+f34-r-note-01	旁記	癧□	首見同面疒下疊木及止狀筆架；右下有數筆可能兩個小假名縮寫，字數未定，留□。
 f34-r-figure-01	圖幅		側坐人物像。
 f34-l-caption-01	原圖題	子宮脫	
 f34-l-figure-01	圖幅		有布紋及著色形體的身體局部圖。
@@ -253,7 +253,7 @@ f35-l-figure-01	圖幅		側轉人物上身像。
 
 【影像 36】
 https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p36
-f36-r-caption-01	原圖題	上齶疱	末字似疒包，也可能疣，未逕改。
+f36-r-caption-01	原圖題	上齶□	末字疒下類似f38R和f48L；三處底筆均長，內部橫點筆太多而不易分形，不作定讀。
 f36-r-figure-01	圖幅		人物頭胸像與面部色繪。
 f36-l-caption-01	原圖題	脹滿	
 f36-l-figure-01	圖幅		側面坐像，左有器物。
@@ -268,7 +268,7 @@ f37-l-figure-01	圖幅		有布紋及著色形體的身體局部圖。
 
 【影像 38】
 https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p38
-f38-r-caption-01	原圖題	疱	亦近疣，與f48L相參但不類推。
+f38-r-caption-01	原圖題	□	字內上似四筆近辛形、下大鉤；和f36R及f48L同形族但仍不能認定字。
 f38-r-figure-01	圖幅		從背側繪製的人物上身圖。
 f38-l-unlabelled-01	無圖題		確認該圖幅無可辨圖題。
 f38-l-figure-01	圖幅		側斜上身圖，面頰著色。
@@ -308,12 +308,12 @@ f43-r-mark-01	原筆圖記		細線末端下斜，有箭頭形；不當作文字�
 f43-r-caption-01	原圖題	穿踝疽	第二字見足旁和果部。
 f43-r-figure-01	圖幅		屈曲下肢局部圖。
 f43-l-caption-01	原圖題	六指	
-f43-l-caption-02	原圖題	拇指	首字似拇或按，初擬拇；下圖旁獨立圖題。
+f43-l-caption-02	原圖題	接指	首字左扌右側上立、底女，符合接；同一面另有六指，不互相替代。
 f43-l-figure-01	圖幅		兩組手、腕與衣袖，同面一組。
 
 【影像 44】
 https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p44
-f44-r-caption-01	原圖題	缺唇	
+f44-r-caption-01	原圖題	鉄唇	首字左金旁可見，右上斜筆及兩橫、下人形捺較近失，不能依通行寫法改成缺。
 f44-r-figure-01	圖幅		小兒側轉頭胸像。
 f44-l-caption-01	原圖題	陰瘤	
 f44-l-figure-01	圖幅		有布紋及著色形體的身體局部圖。
@@ -343,7 +343,7 @@ f47-l-figure-01	圖幅		手與衣袖局部圖。
 https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p48
 f48-r-caption-01	原圖題	火傷	
 f48-r-figure-01	圖幅		人物俯身坐姿全身圖。
-f48-l-caption-01	原圖題	疱	末筆延至頁縫，亦近疣。
+f48-l-caption-01	原圖題	□	下部長折筆可定位，字裡兩列墨筆仍不能定；同f36R、f38R保留候讀。
 f48-l-figure-01	圖幅		人物背面上身像，背部著色。
 
 【影像 49】
@@ -364,7 +364,7 @@ f50-l-figure-01	圖幅		坐姿人物上身圖，胸前色繪。
 https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005563/canvas/p51
 f51-r-unlabelled-01	無圖題		確認該圖幅無可辨圖題。
 f51-r-figure-01	圖幅		坐姿人物上身圖，頸部有傷的描繪。
-f51-l-caption-01	原圖題	安保對馬之醫／松本煉次郎□圖	兩直欄依右先左後。保、煉與□處筆形待核。
+f51-l-caption-01	原圖題	□□對馬ノ傷／松本□次郎□圖	兩欄的對馬後見ノ斜筆，末字左亻、右側昜形為傷。右首兩形、左欄第三與尾圖前小字差異大，留待後查。
 f51-l-figure-01	圖幅		立姿人物，衣裳、傷痕與器物為同面一圖。
 
 【影像 52】

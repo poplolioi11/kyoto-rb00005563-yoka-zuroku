@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '瘍科方之內〔瘍科圖錄〕（一圖署1855年，京都大學 ヨ/144） / Yōka zuroku [Illustrated surgical atlas]:
   Illustration Caption Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu
